@@ -1,1 +1,0 @@
-alert('An alert from custom.js file')
