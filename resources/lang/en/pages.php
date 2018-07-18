@@ -12,15 +12,13 @@ return [
         'Home'    => 'HOME',
         'About '  => 'ABOUT',
         'Stacks'  => 'STACKS',
-        'Gallery' => 'GALLERY',
-        'Contact' => 'Contact',
+        'Contact' => 'CONTACT',
     ],
 
     'title' => [
         'Home'    => 'Home',
         'About'   => 'About',
         'Stacks'  => 'Stacks',
-        'Gallery' => 'Gallery',
         'Contact' => 'Contact',
     ],
 
