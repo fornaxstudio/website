@@ -25,12 +25,8 @@
     <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body>
-    @include('layout.header')
-    <!-- CONTENT -->
-    @yield('content')
-    <!-- CONTENT -->
-    @include('layout.footer')
+<body class="@stack('body-class')">
+@yield('page')
 <script src="{{ asset('assets/js/page.min.js') }}"></script>
 <script src="{{ asset('assets/js/script.js') }}"></script>
 @stack('scripts')
