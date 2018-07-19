@@ -13,10 +13,11 @@
         <section id="section-demo" class="section overflow-hidden bg-gray">
             <div class="container">
                 <header class="section-header">
-                    <small>Demo</small>
-                    <h2>Sample Landing Pages</h2>
+                    <small>"Fornax Constellation"</small>
+                    <h2>Projects</h2>
                     <hr>
-                    <p class="lead">Apart from internal pages, we have designed several single sample pages to get start with.</p>
+                    <p class="lead">Companies are made up of people.
+                        <br>And when those people have the right tools, they can turn their business dreams into reality.</p>
                 </header>
 
 
@@ -24,9 +25,9 @@
 
                     <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="0">
                         <a class="card shadow-1 hover-shadow-7" href="demo/bootstrap.html" target="_blank">
-                            <img class="card-img-top" src="assets/img/preview/demo-bootstrap.jpg" alt="Demo">
+                            <img class="card-img-top" src="assets/img/preview/dngo.png" alt="Demo">
                             <div class="card-body">
-                                <h6 class="mb-0">Bootstrap</h6>
+                                <h6 class="mb-0">dNGO</h6>
                             </div>
                         </a>
                     </div>
@@ -34,65 +35,65 @@
 
                     <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="150">
                         <a class="card shadow-1 hover-shadow-7" href="demo/mailchimp.html" target="_blank">
-                            <img class="card-img-top" src="assets/img/preview/demo-mailchimp.jpg" alt="Demo">
+                            <img class="card-img-top" src="assets/img/preview/rezervapp.png" alt="Demo">
                             <div class="card-body">
-                                <h6 class="mb-0">MailChimp</h6>
+                                <h6 class="mb-0">rezervapp</h6>
                             </div>
                         </a>
                     </div>
 
 
-                    <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
-                        <a class="card shadow-1 hover-shadow-7" href="demo/github.html" target="_blank">
-                            <img class="card-img-top" src="assets/img/preview/demo-github.jpg" alt="Demo">
-                            <div class="card-body">
-                                <h6 class="mb-0">GitHub</h6>
-                            </div>
-                        </a>
-                    </div>
+                    {{--<div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">--}}
+                        {{--<a class="card shadow-1 hover-shadow-7" href="demo/github.html" target="_blank">--}}
+                            {{--<img class="card-img-top" src="assets/img/preview/demo-github.jpg" alt="Demo">--}}
+                            {{--<div class="card-body">--}}
+                                {{--<h6 class="mb-0">GitHub</h6>--}}
+                            {{--</div>--}}
+                        {{--</a>--}}
+                    {{--</div>--}}
 
 
-                    <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="0">
-                        <a class="card shadow-1 hover-shadow-7" href="demo/gmail.html" target="_blank">
-                            <img class="card-img-top" src="assets/img/preview/demo-gmail.jpg" alt="Demo">
-                            <div class="card-body">
-                                <h6 class="mb-0">Gmail</h6>
-                            </div>
-                        </a>
-                    </div>
+                    {{--<div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="0">--}}
+                        {{--<a class="card shadow-1 hover-shadow-7" href="demo/gmail.html" target="_blank">--}}
+                            {{--<img class="card-img-top" src="assets/img/preview/demo-gmail.jpg" alt="Demo">--}}
+                            {{--<div class="card-body">--}}
+                                {{--<h6 class="mb-0">Gmail</h6>--}}
+                            {{--</div>--}}
+                        {{--</a>--}}
+                    {{--</div>--}}
 
 
-                    <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="150">
+                    {{--<div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="150">
                         <a class="card shadow-1 hover-shadow-7" href="demo/trello.html" target="_blank">
                             <img class="card-img-top" src="assets/img/preview/demo-trello.jpg" alt="Demo">
                             <div class="card-body">
                                 <h6 class="mb-0">Trello</h6>
                             </div>
                         </a>
-                    </div>
+                    </div>--}}
 
 
-                    <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
+                   {{-- <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
                         <a class="card shadow-1 hover-shadow-7" href="demo/slack.html" target="_blank">
                             <img class="card-img-top" src="assets/img/preview/demo-slack.jpg" alt="Demo">
                             <div class="card-body">
                                 <h6 class="mb-0">Slack</h6>
                             </div>
                         </a>
-                    </div>
+                    </div>--}}
 
 
-                    <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="0">
+                    {{--<div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="0">
                         <a class="card shadow-1 hover-shadow-7" href="demo/dropbox.html" target="_blank">
                             <img class="card-img-top" src="assets/img/preview/demo-dropbox.jpg" alt="Demo">
                             <div class="card-body">
                                 <h6 class="mb-0">Dropbox</h6>
                             </div>
                         </a>
-                    </div>
+                    </div>--}}
 
 
-                    <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="150">
+                    {{--<div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="150">
                         <a class="card shadow-1 hover-shadow-7" href="demo/zendesk.html" target="_blank">
                             <img class="card-img-top" src="assets/img/preview/demo-zendesk.jpg" alt="Demo">
                             <div class="card-body">
@@ -109,37 +110,37 @@
                                 <h6 class="mb-0">PayPal</h6>
                             </div>
                         </a>
-                    </div>
+                    </div>--}}
 
 
-                    <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="0">
+                    {{--<div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="0">
                         <a class="card shadow-1 hover-shadow-7" href="demo/wordpress.html" target="_blank">
                             <img class="card-img-top" src="assets/img/preview/demo-wordpress.jpg" alt="Demo">
                             <div class="card-body">
                                 <h6 class="mb-0">WordPress</h6>
                             </div>
                         </a>
-                    </div>
+                    </div>--}}
 
 
-                    <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="150">
+                    {{--<div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="150">
                         <a class="card shadow-1 hover-shadow-7" href="demo/themeforest.html" target="_blank">
                             <img class="card-img-top" src="assets/img/preview/demo-themeforest.jpg" alt="Demo">
                             <div class="card-body">
                                 <h6 class="mb-0">ThemeForest</h6>
                             </div>
                         </a>
-                    </div>
+                    </div>--}}
 
 
-                    <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
+                    {{--<div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
                         <a class="card shadow-1 hover-shadow-7" href="demo/dribbble.html" target="_blank">
                             <img class="card-img-top" src="assets/img/preview/demo-dribbble.jpg" alt="Demo">
                             <div class="card-body">
                                 <h6 class="mb-0">Dribbble</h6>
                             </div>
                         </a>
-                    </div>
+                    </div>--}}
 
 
                 </div>
