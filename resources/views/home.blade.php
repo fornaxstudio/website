@@ -160,8 +160,8 @@
 
                     <div class="col-lg-6">
 
-                        <h2 class="mb-5">Blocks & Elements</h2>
-                        <p class="lead mb-0">This template includes hundreds of blocks to rapidly create your pages by copy & paste our block's code to your page, and backed by a lot of elements to develop your own blocks.</p>
+                        <h2 class="mb-5">What is Fornax?</h2>
+                        <p class="lead mb-0">Fornax has different usages but we love all of them! It's a Roman goddess, one of the 88 modern constellations made by three bright stars named Alpha, Beta and Nu Fornacis. One more thing, Fornax A (NGC 1316) is a galaxy, far far away.</p>
 
                         <br><hr class="w-30 ml-0"><br>
 
@@ -171,7 +171,14 @@
                             <div class="col">
                                 <a class="card card-body border hover-shadow-6 text-center py-6" href="block/cover.html">
                                     <p><i class="icon-picture lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">Cover</h6>
+                                    <h6 class="mb-0">Transparency</h6>
+                                </a>
+                            </div>
+
+                            <div class="col">
+                                <a class="card card-body border hover-shadow-6 text-center py-6" href="block/cover.html">
+                                    <p><i class="icon-picture lead-6 text-muted"></i></p>
+                                    <h6 class="mb-0">Trust</h6>
                                 </a>
                             </div>
 
@@ -179,7 +186,7 @@
                             <div class="col">
                                 <a class="card card-body border hover-shadow-6 text-center py-6" href="block/feature.html">
                                     <p><i class="icon-genius lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">Feature</h6>
+                                    <h6 class="mb-0">Collaboration</h6>
                                 </a>
                             </div>
 
@@ -187,7 +194,7 @@
                             <div class="col">
                                 <a class="card card-body border hover-shadow-6 text-center py-6" href="block/blog.html">
                                     <p><i class="icon-browser lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">Blog</h6>
+                                    <h6 class="mb-0">Efficiency</h6>
                                 </a>
                             </div>
 
@@ -195,7 +202,7 @@
                             <div class="col">
                                 <a class="card card-body border hover-shadow-6 text-center py-6" href="block/shop.html">
                                     <p><i class="icon-basket lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">Shop</h6>
+                                    <h6 class="mb-0">Autonomy</h6>
                                 </a>
                             </div>
 
@@ -210,7 +217,7 @@
                             <div class="col">
                                 <a class="card card-body border hover-shadow-6 text-center py-6" href="uikit/typography.html">
                                     <p><i class="icon-pencil lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">Typography</h6>
+                                    <h6 class="mb-0">Responsibility</h6>
                                 </a>
                             </div>
 
@@ -218,31 +225,7 @@
                             <div class="col">
                                 <a class="card card-body border hover-shadow-6 text-center py-6" href="uikit/card.html">
                                     <p><i class="icon-video lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">Card</h6>
-                                </a>
-                            </div>
-
-
-                            <div class="col">
-                                <a class="card card-body border hover-shadow-6 text-center py-6" href="uikit/form.html">
-                                    <p><i class="icon-envelope lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">Form</h6>
-                                </a>
-                            </div>
-
-
-                            <div class="col">
-                                <a class="card card-body border hover-shadow-6 text-center py-6" href="uikit/map.html">
-                                    <p><i class="icon-map lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">Map</h6>
-                                </a>
-                            </div>
-
-
-                            <div class="col">
-                                <a class="card card-body border hover-shadow-6 text-center py-6" href="uikit/social.html">
-                                    <p><i class="icon-facebook lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">Social</h6>
+                                    <h6 class="mb-0">Constant Change</h6>
                                 </a>
                             </div>
 
