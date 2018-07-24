@@ -154,7 +154,7 @@
         | Blocks & Elements
         |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
         !-->
-        <section class="section pb-10">
+        <section id="section-values" class="section pb-10">
             <div class="container">
                 <div class="row gap-y align-items-center">
 
@@ -165,7 +165,7 @@
 
                         <br><hr class="w-30 ml-0"><br>
 
-                        <p class="mb-6 small">Explore or <a href="block/index.html">view all blocks</a></p>
+                        {{--<p class="mb-6 small">Explore or <a href="block/index.html">view all values</a></p>--}}
                         <div class="row gap-y" data-provide="slider" data-slides-to-show="3" data-slides-to-scroll="2" data-dots="true">
 
                             <div class="col">
@@ -235,7 +235,7 @@
 
                     <div class="col-lg-5 ml-lg-auto d-none d-lg-block">
                         <img src="assets/img/preview/blocks-and-elements-space.png" alt="...">
-                        {{--Photo by Luck Galindo from Pexels--}}
+                        {{--Photo by Luck Galindo from Pexels - Thank you Luck Galinda :) --}}
                     </div>
 
                 </div>
@@ -248,7 +248,7 @@
         | CTA
         |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
         !-->
-        <section class="section text-center" style="background-image: linear-gradient(135deg, #f9f7ff 0%, #fff 50%, #f6f3ff 100%);">
+        {{--<section class="section text-center" style="background-image: linear-gradient(135deg, #f9f7ff 0%, #fff 50%, #f6f3ff 100%);">
             <div class="container">
 
                 <div class="row">
@@ -263,7 +263,7 @@
                 </div>
 
             </div>
-        </section>
+        </section>--}}
 
 
         <!--
@@ -271,7 +271,7 @@
         | More Features
         |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
         !-->
-        <section class="section">
+       {{-- <section class="section">
             <div class="container">
                 <header class="section-header">
                     <h2>More Features</h2>
@@ -314,7 +314,7 @@
                 </div>
 
             </div>
-        </section>
+        </section>--}}
 
 
         <!--
@@ -322,7 +322,7 @@
         | Testimonials
         |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
         !-->
-        <section class="section bg-gray">
+        {{--<section class="section bg-gray">
             <div class="container">
                 <header class="section-header">
                     <small>Testimonials</small>
@@ -525,7 +525,7 @@
                 </div>
 
             </div>
-        </section>
+        </section>--}}
 
 
         <!--
@@ -533,7 +533,7 @@
         | CTA
         |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
         !-->
-        <section class="section text-white py-8">
+        {{--<section class="section text-white py-8">
             <canvas class="overlay opacity-95" data-granim="#667eea,#764ba2,#00cdac,#3cba92"></canvas>
 
             <div class="container">
@@ -549,7 +549,7 @@
                     <small><a class="text-white opacity-80" href="https://themeforest.net/item/thesaas-responsive-bootstrap-saas-software-webapp-template/19778599?license=extended&open_purchase_for_item_id=19778599&purchasable=source&ref=thethemeio">or purchase an Extended License</a></small>
                 </p>
             </div>
-        </section>
+        </section>--}}
 
     </main>
 @endsection

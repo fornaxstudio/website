@@ -5,8 +5,8 @@
         <div class="navbar-left">
             <button class="navbar-toggler" type="button">&#9776;</button>
             <a class="navbar-brand" href="{{ url('/') }}">
-                <img class="logo-dark" src="assets/img/logo-dark.png" alt="logo">
-                <img class="logo-light" src="assets/img/logo-light.png" alt="logo">
+                <img class="logo-dark" src="assets/img/fornax-studio-header-logo.png" alt="logo">
+                <img class="logo-light" src="assets/img/fornax-studio-header-logo.png" alt="logo">
             </a>
         </div>
 
@@ -17,23 +17,23 @@
                 <li class="nav-item">
                     <a class="nav-link" href="{{ url('/') }}">@lang('pages.menu.Home')</a>
                 </li>
-                <li class="nav-item">
+                {{--<li class="nav-item">
                     <a class="nav-link" href="{{ url('/about') }}">@lang('pages.menu.About')</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="{{ url('/contact') }}">@lang('pages.menu.Contact')</a>
-                </li>
+                </li>--}}
             </ul>
         </section>
 
-        <a class="btn btn-xs btn-round btn-success" href="#">Buy Now</a>
+        {{--<a class="btn btn-xs btn-round btn-success" href="#">Buy Now</a>--}}
 
     </div>
 </nav><!-- /.navbar -->
 
 
 <!-- Header -->
-<header class="header text-white h-fullscreen overflow-hidden" style="background-image: linear-gradient(-45deg, #667eea 0%, #764ba2 100%);">
+<header id="class-header" class="header text-white h-fullscreen overflow-hidden" style="background-image: linear-gradient(-45deg, #667eea 0%, #764ba2 100%);">
     <canvas class="constellation" data-radius="0"></canvas>
     <div class="container position-static">
         <div class="row align-items-center h-100">
@@ -41,7 +41,7 @@
             <div class="col-lg-7">
                 <h1 class="display-4 fw-500">We Are<span class="fw-400 pl-2" data-typing="Forward-thinking, Fully-remote, Open Company," data-type-speed="80"></span></h1>
                 <p class="lead mt-5 mb-7 mb-md-9 w-80"><strong>Fornax Studio</strong> is an employee-owned and fully-remote company dedicated to awesome software and enthusiastic customer support. We treat each other with respect. We value transparency and our people are independent, skilled and highly motivated. We’re privileged to be able to work each day with smart and talented people who are passionate about creating great software. All while treating customers with respect, making a living, and having fun.</p>
-                <a class="btn btn-xl btn-round btn-success w-220 mr-3 px-6 d-none d-md-inline-block" href="https://themeforest.net/item/thesaas-responsive-bootstrap-saas-software-webapp-template/19778599?license=regular&open_purchase_for_item_id=19778599&purchasable=source&ref=thethemeio">Explore Our Values</a>
+                <a class="btn btn-xl btn-round btn-success w-220 mr-3 px-6 d-none d-md-inline-block" href="#section-values">Explore Our Values</a>
                 <a class="btn btn-xl btn-round btn-outline-light w-220 px-6" href="#section-demo">Explore Our Products</a>
             </div>
 
