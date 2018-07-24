@@ -234,7 +234,8 @@
                     </div>
 
                     <div class="col-lg-5 ml-lg-auto d-none d-lg-block">
-                        <img src="assets/img/preview/blocks-and-elements.png" alt="...">
+                        <img src="assets/img/preview/blocks-and-elements-space.png" alt="...">
+                        {{--Photo by Luck Galindo from Pexels--}}
                     </div>
 
                 </div>
