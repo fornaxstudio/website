@@ -169,14 +169,14 @@
                         <div class="row gap-y" data-provide="slider" data-slides-to-show="3" data-slides-to-scroll="2" data-dots="true">
 
                             <div class="col">
-                                <a class="card card-body border hover-shadow-6 text-center py-6" href="block/cover.html">
+                                <a class="card card-body border hover-shadow-6 text-center py-6">
                                     <p><i class="icon-picture lead-6 text-muted"></i></p>
                                     <h6 class="mb-0">Transparency</h6>
                                 </a>
                             </div>
 
                             <div class="col">
-                                <a class="card card-body border hover-shadow-6 text-center py-6" href="block/cover.html">
+                                <a class="card card-body border hover-shadow-6 text-center py-6">
                                     <p><i class="icon-picture lead-6 text-muted"></i></p>
                                     <h6 class="mb-0">Trust</h6>
                                 </a>
@@ -184,7 +184,7 @@
 
 
                             <div class="col">
-                                <a class="card card-body border hover-shadow-6 text-center py-6" href="block/feature.html">
+                                <a class="card card-body border hover-shadow-6 text-center py-6">
                                     <p><i class="icon-genius lead-6 text-muted"></i></p>
                                     <h6 class="mb-0">Collaboration</h6>
                                 </a>
@@ -192,7 +192,7 @@
 
 
                             <div class="col">
-                                <a class="card card-body border hover-shadow-6 text-center py-6" href="block/blog.html">
+                                <a class="card card-body border hover-shadow-6 text-center py-6">
                                     <p><i class="icon-browser lead-6 text-muted"></i></p>
                                     <h6 class="mb-0">Efficiency</h6>
                                 </a>
@@ -200,7 +200,7 @@
 
 
                             <div class="col">
-                                <a class="card card-body border hover-shadow-6 text-center py-6" href="block/shop.html">
+                                <a class="card card-body border hover-shadow-6 text-center py-6">
                                     <p><i class="icon-basket lead-6 text-muted"></i></p>
                                     <h6 class="mb-0">Autonomy</h6>
                                 </a>
@@ -208,14 +208,14 @@
 
 
                             <div class="col">
-                                <a class="card card-body border hover-shadow-6 text-center py-6" href="block/team.html">
+                                <a class="card card-body border hover-shadow-6 text-center py-6">
                                     <p><i class="icon-profile-male lead-6 text-muted"></i></p>
                                     <h6 class="mb-0">Team</h6>
                                 </a>
                             </div>
 
                             <div class="col">
-                                <a class="card card-body border hover-shadow-6 text-center py-6" href="uikit/typography.html">
+                                <a class="card card-body border hover-shadow-6 text-center py-6">
                                     <p><i class="icon-pencil lead-6 text-muted"></i></p>
                                     <h6 class="mb-0">Responsibility</h6>
                                 </a>
@@ -223,7 +223,7 @@
 
 
                             <div class="col">
-                                <a class="card card-body border hover-shadow-6 text-center py-6" href="uikit/card.html">
+                                <a class="card card-body border hover-shadow-6 text-center py-6">
                                     <p><i class="icon-video lead-6 text-muted"></i></p>
                                     <h6 class="mb-0">Constant Change</h6>
                                 </a>
