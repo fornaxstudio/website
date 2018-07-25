@@ -4,7 +4,7 @@
         <div class="row gap-y align-items-center">
 
             <div class="col-6 col-lg-3">
-                <a href="#"><img src="{{ asset('assets/img/fornax-studio-footer-logo.png') }}" alt="logo"></a>
+                <a href="{{ url('/') }}"><img src="{{ asset('assets/img/fornax-studio-logo.png') }}" alt="{{ config('app.name') }} Logo" width="160"></a>
             </div>
 
             <div class="col-6 col-lg-3 text-right order-lg-last">
