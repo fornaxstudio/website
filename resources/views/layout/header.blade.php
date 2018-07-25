@@ -5,8 +5,8 @@
         <div class="navbar-left">
             <button class="navbar-toggler" type="button">&#9776;</button>
             <a class="navbar-brand" href="{{ url('/') }}">
-                <img class="logo-dark" src="assets/img/fornax-studio-header-logo.png" alt="logo">
-                <img class="logo-light" src="assets/img/fornax-studio-header-logo.png" alt="logo">
+                <img class="logo-dark" src="{{ asset('assets/img/fornax-studio-logo.png') }}" width="170" alt="{{ config('app.name') }} Logo">
+                <img class="logo-light" src="{{ asset('assets/img/fornax-studio-logo-negative.png') }}" width="170" alt="{{ config('app.name') }} Logo">
             </a>
         </div>
 
@@ -33,7 +33,7 @@
 
 
 <!-- Header -->
-<header id="class-header" class="header text-white h-fullscreen overflow-hidden" style="background-image: linear-gradient(-45deg, #667eea 0%, #764ba2 100%);">
+<header class="header text-white h-fullscreen overflow-hidden" style="background-image: url({{ asset('assets/img/constellations-cosmos-dark-982378.jpg') }});">
     <canvas class="constellation" data-radius="0"></canvas>
     <div class="container position-static">
         <div class="row align-items-center h-100">
