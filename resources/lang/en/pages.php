@@ -9,17 +9,15 @@ return [
     */
 
     'menu' => [
-        'Home'    => 'HOME',
-        'About '  => 'ABOUT',
-        'Stacks'  => 'STACKS',
-        'Contact' => 'CONTACT',
+        'Home'     => 'HOME',
+        'Projects' => 'PROJECTS',
+        'Contact'  => 'CONTACT',
     ],
 
     'title' => [
-        'Home'    => 'Home',
-        'About'   => 'About',
-        'Stacks'  => 'Stacks',
-        'Contact' => 'Contact',
+        'Home'     => 'Home',
+        'Projects' => 'Projects',
+        'Contact'  => 'Contact',
     ],
 
     'contact' => [

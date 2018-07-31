@@ -140,3 +140,10 @@
   background-repeat:   no-repeat;
   background-position: top center;
 }
+#project-header
+{
+  background-image: url('../backgrounds/projects.jpg');
+  background-size:     cover;
+  background-repeat:   no-repeat;
+  background-position: top center;
+}

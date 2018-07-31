@@ -19,8 +19,8 @@ Route::get('/language', 'LanguageSwitcherController@index');
 Route::get('/contact', 'ContactController@show');
 Route::post('/contact',  'ContactController@mailToAdmin');
 
-Route::get('/stacks', function () {
-    return view('stacks');
+Route::get('/projects', function () {
+    return view('projects');
 });
 
 Route::get('/gallery', 'GalleryController@index');

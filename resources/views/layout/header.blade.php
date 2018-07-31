@@ -17,9 +17,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="{{ url('/') }}">@lang('pages.menu.Home')</a>
                 </li>
-                {{--<li class="nav-item">
-                    <a class="nav-link" href="{{ url('/about') }}">@lang('pages.menu.About')</a>
-                </li>--}}
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ url('/projects') }}">@lang('pages.menu.Projects')</a>
+                </li>
                 <li class="nav-item">
                     <a class="nav-link" href="{{ url('/contact') }}">@lang('pages.menu.Contact')</a>
                 </li>

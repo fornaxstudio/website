@@ -19,6 +19,7 @@
             <div class="col-lg-6">
                 <div class="nav nav-bold nav-uppercase nav-trim justify-content-lg-center">
                     <a class="nav-link" href="{{ url('/') }}">@lang('pages.menu.Home')</a>
+                    <a class="nav-link" href="{{ url('/projects') }}">@lang('pages.menu.Projects')</a>
                     <a class="nav-link" href="{{ url('/contact') }}">@lang('pages.menu.Contact')</a>
                 </div>
             </div>
