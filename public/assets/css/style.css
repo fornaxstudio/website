@@ -132,3 +132,11 @@
     display: none; } }
 
 /*# sourceMappingURL=style.css.map */
+
+#contact-header
+{
+  background-image: url('../backgrounds/contact.jpg');
+  background-size:     cover;
+  background-repeat:   no-repeat;
+  background-position: top center;
+}

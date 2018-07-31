@@ -18,12 +18,8 @@
 
             <div class="col-lg-6">
                 <div class="nav nav-bold nav-uppercase nav-trim justify-content-lg-center">
-                    <a class="nav-link" href="#class-header">Home</a>
-                    {{--<a class="nav-link" href="uikit/index.html">Elements</a>
-                    <a class="nav-link" href="block/index.html">Blocks</a>
-                    <a class="nav-link" href="page/about.html">About</a>
-                    <a class="nav-link" href="blog/grid.html">Blog</a>
-                    <a class="nav-link" href="page/contact.html">Contact</a>--}}
+                    <a class="nav-link" href="{{ url('/') }}">@lang('pages.menu.Home')</a>
+                    <a class="nav-link" href="{{ url('/contact') }}">@lang('pages.menu.Contact')</a>
                 </div>
             </div>
 
