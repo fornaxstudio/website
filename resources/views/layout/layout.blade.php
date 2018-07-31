@@ -3,8 +3,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="keywords" content="@lang('general.website.keywords')">
+    <meta name="description" content="@lang('general.website.description')">
+    <meta name="author" content="@lang('general.website.author')">
     <link rel="icon" href="{{ asset('assets/img/favicon.png') }}">
 
     <title>@yield('title') | {{ config('app.name') }}</title>
