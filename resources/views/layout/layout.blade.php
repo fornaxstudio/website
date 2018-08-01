@@ -11,8 +11,7 @@
     <title>@yield('title') | {{ config('app.name') }}</title>
 
     <!-- Styles -->
-    <link href="{{ asset('assets/css/page.min.css') }}" rel="stylesheet">
-    <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/compiled.css') }}" rel="stylesheet">
 
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="{{ asset('assets/img/apple-touch-icon.png') }}">
@@ -28,8 +27,7 @@
 
 <body class="@stack('body-class')">
 @yield('page')
-<script src="{{ asset('assets/js/page.min.js') }}"></script>
-<script src="{{ asset('assets/js/script.js') }}"></script>
+<script src="{{ asset('assets/compiled.js') }}"></script>
 @stack('scripts')
 <script>@stack('code')</script>
 </body>
