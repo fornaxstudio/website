@@ -2,7 +2,7 @@
 @section('title', __('pages.title.Home'))
 @section('content')
     <!-- Header -->
-    <header class="header text-white h-fullscreen overflow-hidden" style="background-image: url({{ asset('assets/img/constellations-cosmos-dark-982378.jpg') }});">
+    <header class="header text-white h-fullscreen overflow-hidden" id="home-header">
         <canvas class="constellation" data-radius="0"></canvas>
         <div class="container position-static">
             <div class="row align-items-center h-100">

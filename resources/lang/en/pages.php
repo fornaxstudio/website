@@ -14,6 +14,14 @@ return [
         'Contact'  => 'CONTACT',
     ],
 
+    'footer' => [
+        'subscribe-mini'=> 'Stay up-to-date',
+        'subscribe-main'=> 'Subscribe our newsletter',
+        'subscribe-email'=> 'Enter Your Email',
+        'subscribe-button'=> 'Subscribe',
+        'footer-slogan' => 'We’re a team of code and business developers. We can combine beautiful, modern designs with clean, functional and high-performance code to produce stunning projects.',
+    ],
+
     'title' => [
         'Home'     => 'Home',
         'Projects' => 'Projects',

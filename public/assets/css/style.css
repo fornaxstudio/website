@@ -133,6 +133,10 @@
 
 /*# sourceMappingURL=style.css.map */
 
+#home-header
+{
+  background-image: url('../backgrounds/home.jpg');
+}
 #contact-header
 {
   background-image: url('../backgrounds/contact.jpg');
@@ -151,3 +155,5 @@
   background-repeat:   no-repeat;
   background-position: top center;
 }
+
+#subscribe {background-color: #ea2e49;}
