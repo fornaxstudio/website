@@ -26,7 +26,6 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-lg-6 mx-auto">
-
                 <div class="nav nav-bold nav-uppercase nav-center">
                     <a class="nav-link" href="{{ url('/') }}">@lang('pages.menu.Home')</a>
                     <a class="nav-link" href="{{ url('/projects') }}">@lang('pages.menu.Projects')</a>
@@ -41,3 +40,13 @@
         </div>
     </div>
 </footer><!-- /.footer -->
+<div id="popup-cookie-3" class="popup text-white bg-dark col-10 py-4" data-position="bottom-center" data-animation="slide-up">
+    <div class="row gap-y align-items-center">
+        <div class="col-md">
+            @lang('pages.footer.cookie-message')
+        </div>
+        <div class="col-md-auto">
+            <button class="btn btn-sm btn-outline-light" data-dismiss="popup">@lang('pages.footer.cookie-button')</button>
+        </div>
+    </div>
+</div>

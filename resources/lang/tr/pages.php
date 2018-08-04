@@ -15,6 +15,8 @@ return [
     ],
 
     'footer' => [
+        'cookie-message' => 'Bu websitesi, size daha iyi bir kullanıcı deneyimi sunmak için çerezleri kullanmaktadır.',
+        'cookie-button' => 'ANLADIM!',
         'subscribe-mini'=> 'Güncel kalın',
         'subscribe-main'=> 'Bültenimizi takip edin',
         'subscribe-email'=> 'E-posta adresinizi girin',

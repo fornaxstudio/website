@@ -15,6 +15,8 @@ return [
     ],
 
     'footer' => [
+        'cookie-message' => 'This website uses cookies to ensure you get the best experience on our website.',
+        'cookie-button' => 'GOT IT!',
         'subscribe-mini'=> 'Stay up-to-date',
         'subscribe-main'=> 'Subscribe our newsletter',
         'subscribe-email'=> 'Enter Your Email',
