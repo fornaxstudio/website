@@ -34,6 +34,11 @@ return [
         'Contact'  => 'Contact',
     ],
 
+    'projects' => [
+        'We Have More to Discover' => 'We Have More to Discover',
+        'Lead Text'                => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet mi eu odio tincidunt, a imperdiet eros venenatis. Cras tincidunt imperdiet sem et semper.',
+    ],
+
     'contact' => [
         'Lets Talk'     => 'Let\'s Talk',
         'Drop us a line'=> 'Drop us a line',

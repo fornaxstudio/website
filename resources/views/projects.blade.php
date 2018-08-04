@@ -16,10 +16,10 @@
     <main class="main-content">
         <div class="container">
             <header class="section-header">
-                <small>Feature</small>
-                <h2>More to Discover</h2>
+                <small>@lang('pages.title.Projects')</small>
+                <h2>@lang('pages.projects.We Have More to Discover')</h2>
                 <hr>
-                <p class="lead">We waited until we could do it right. Then we did! Instead of creating a carbon copy.</p>
+                <p class="lead">@lang('pages.projects.Lead Text')</p>
             </header>
 
 
