@@ -32,20 +32,17 @@ return [
         'Projects'=> 'Projeler',
         'Contact' => 'İletişim',
     ],
-
-    'page-line' => [
-        'Home'     => [
-            'home-intro' => '<strong>'.config('app.name').'</strong> etkileyici yazılım ve hevesli müşteri desteğine 
+    'home' => [
+        'type-intro' => 'Biz',
+        'type'       => 'geleceği düşünen, lokasyon bağımsız, şeffaf bir şirketiz,',
+        'home-intro' => '<strong>'.config('app.name').'</strong> etkileyici yazılım ve hevesli müşteri desteğine 
                             adanmış, çalışanlarına ait ve tamamen lokasyon bağımsız bir şirkettir. Birbirimize saygıyla 
                             davranırız. Şeffaflığa değer veriyoruz ve çalışanlarımızın bağımsız, yetenekli ve yüksek motivasyonlu
                             olması her zaman önceliğimizdir. Harika yazılımlar oluşturma konusunda tutkulu olan, bilgili ve 
                             yetenekli kişilerle çalışabilme ayrıcalığına sahibiz. Müşterilerilerimize istediklerini verirken,
                             hayatımıza ve yaptığımız işlerden keyif almaya devam ediyoruz.',
-            'Explore Our Values'   => 'Şirket Değerlerimiz',
-            'Explore Our Products' => 'Ürünlerimize Gözatın',
-        ],
-        'Projects' => 'Projeler',
-        'Contact'  => 'İletişim',
+        'Explore Our Values'   => 'Şirket Değerlerimiz',
+        'Explore Our Products' => 'Ürünlerimize Gözatın',
     ],
 
     'projects' => [
