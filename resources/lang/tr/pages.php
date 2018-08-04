@@ -66,7 +66,17 @@ return [
 
     'projects' => [
         'There is always something more to learn' => 'Her zaman yeni öğrenecek bir şey var',
-        'Lead Text'                => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet mi eu odio tincidunt, a imperdiet eros venenatis. Cras tincidunt imperdiet sem et semper.',
+        'Project1'      => 'dNGO',
+        'Project1 Text' => 'Temel amacı, sosyal projelerde kullanıcı katılımını artırmak ve özendirmek için blockchain 
+                            üzerinde kripto paraları kullanan merkeziyetsiz sivil toplum kuruluşu oluşturmaktır. İlk proje 
+                            olan dNGO Books, çok dilli ve herkese açık bir sesli kitap arşivi oluşturmaya çalışıyor.',
+        'Project2'      => 'rezervapp',
+        'Project2 Text' => 'Rezervapp, kullanıcı dostu bir tesis yönetim yazılımıdır. Otel, pansiyon, kamp alanı gibi tesislerin 
+                            kolayca yönetilebilmeleri, hizmetleri sunabilmeleri ve rezervasyon sürecini otomatize edilmesi
+                            için oluşturulmuştur.',
+        'Project3'      => 'KALI',
+        'Project3 Text' => 'blabla3',
+
     ],
 
     'contact' => [

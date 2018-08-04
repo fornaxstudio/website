@@ -18,7 +18,7 @@
                 </div>
 
                 <div class="col-md-5 order-md-first">
-                    <img class="rounded shadow-2" src="{{ asset('assets/img/preview/dngo.png') }}" alt="...">
+                    <img class="rounded shadow-2" src="{{ asset('assets/img/preview/dngo.png') }}" alt="DNGO">
                 </div>
             </div>
 
@@ -33,7 +33,7 @@
                 </div>
 
                 <div class="col-md-5">
-                    <img class="rounded shadow-2" src="{{ asset('assets/img/preview/rezervapp.png')}}" alt="...">
+                    <img class="rounded shadow-2" src="{{ asset('assets/img/preview/rezervapp.png')}}" alt="Rezervapp">
                 </div>
             </div>
 
