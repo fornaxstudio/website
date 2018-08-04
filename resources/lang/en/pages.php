@@ -35,8 +35,15 @@ return [
     ],
 
     'projects' => [
-        'We Have More to Discover' => 'We Have More to Discover',
+        'There is always something more to learn' => 'There is always something more to learn',
         'Lead Text'                => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet mi eu odio tincidunt, a imperdiet eros venenatis. Cras tincidunt imperdiet sem et semper.',
+        'Project1' => 'dNGO',
+        'Project1 Text' => 'The principal aim we pursue is to build a decentralized non-governmental organization on blockchain to increase user participation in social change by incentivising contributions with cryptocurrencies. As for the first project, namely Dngo Books, it attempts to create a collectively produced, multilingual and publicly accessible audiobook archive.',
+        'Project2' => 'rezervapp',
+        'Project2 Text' => 'Rezervapp is an intuitive and user-friendly property management software. It is created for hotels, campgrounds, lodgings to easily manage rental properties, provide guest services and automate the booking process',
+        'Project3' => 'KALI',
+        'Project3 Text' => 'blabla3',
+
     ],
 
     'contact' => [
@@ -49,5 +56,9 @@ return [
         'Message'       => 'Message',
         'Submit Inquiry'=> 'Submit Inquiry',
         'Message sent'  => 'We received your message and will contact you back soon.',
+    ],
+
+    'footer' => [
+        'Footer Text'     => 'We’re a team of experienced designers and developers. We can combine beautiful, modern designs with clean, functional and high-performance code to produce stunning software.',
     ],
 ];
