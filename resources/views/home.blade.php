@@ -18,45 +18,6 @@
                 </div>
 
             </div>
-
-            <div class="d-none d-lg-block sample-blocks">
-                <a target="_blank">
-                    <img class="shadow-6" src="{{ asset('assets/img/preview/rezervapp_300_196.png') }}" alt="..." data-aos="fade-up" data-aos-delay="0" data-aos-offset="0">
-                </a>
-
-                <a target="_blank">
-                    <img class="shadow-6" src="{{ asset('assets/img/preview/rezervapp_dashboard_260_134.png') }}" alt="..." data-aos="fade-up" data-aos-delay="200" data-aos-offset="0">
-                </a>
-
-                <a target="_blank">
-                    <img class="shadow-6" src="{{ asset('assets/img/preview/dngo_260_170.png') }}" alt="..." data-aos="fade-up" data-aos-delay="400" data-aos-offset="0">
-                </a>
-
-                <a target="_blank">
-                    <img class="shadow-6" src="{{ asset('assets/img/preview/dngo_video_3_260_106.png') }}" alt="..." data-aos="fade-up" data-aos-delay="600" data-aos-offset="0">
-                </a>
-
-                <a target="_blank">
-                    <img class="shadow-6" src="{{ asset('assets/img/preview/dngo_video_5_240_116.png') }}" alt="..." data-aos="fade-up" data-aos-delay="800" data-aos-offset="0">
-                </a>
-
-                <a target="_blank">
-                    <img class="shadow-6" src="{{ asset('assets/img/preview/rezervapp__220_92.png') }}" alt="..." data-aos="fade-up" data-aos-delay="1000" data-aos-offset="0">
-                </a>
-
-                <a target="_blank">
-                    <img class="shadow-6" src="{{ asset('assets/img/preview/rezervapp__160_87.png') }}" alt="..." data-aos="fade-up" data-aos-delay="1200" data-aos-offset="0">
-                </a>
-
-                <a target="_blank">
-                    <img class="shadow-6" src="{{ asset('assets/img/preview/dngo_160_87.png') }}" alt="..." data-aos="fade-up" data-aos-delay="1400" data-aos-offset="0">
-                </a>
-
-                <a target="_blank">
-                    <img class="shadow-6" src="{{ asset('assets/img/preview/dngo_video_2_130_66.png') }}" alt="..." data-aos="fade-up" data-aos-delay="1700" data-aos-offset="0">
-                </a>
-            </div>
-
         </div>
     </header><!-- /.header -->
     <!-- Main Content -->
