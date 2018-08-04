@@ -14,14 +14,17 @@ return [
         'Contact' => 'İLETİŞİM',
     ],
 
-    'footer' => [
+    'layout' => [
         'cookie-message'   => 'Bu websitesi, size daha iyi bir kullanıcı deneyimi sunmak için çerezleri kullanmaktadır.',
         'cookie-button'    => 'ANLADIM!',
-        'subscribe-mini'   => 'Güncel kalın',
-        'subscribe-main'   => 'Bültenimizi takip edin',
-        'subscribe-email'  => 'E-posta adresinizi girin',
-        'subscribe-button' => 'Takip Et',
-        'footer-slogan'    => 'We’re a team of code and business developers. We can combine beautiful, modern designs with clean, functional and high-performance code to produce stunning projects.',
+        'subscribe'        => [
+            'mini'   => 'Güncel kalın',
+            'main'   => 'Bültenimizi takip edin',
+            'email'  => 'E-posta adresinizi girin',
+            'button' => 'Takip Et',
+        ],
+        'slogan'           => 'We’re a team of code and business developers. We can combine beautiful, modern designs
+                              with clean, functional and high-performance code to produce stunning projects.',
     ],
 
     'title' => [

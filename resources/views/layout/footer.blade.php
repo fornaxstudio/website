@@ -1,8 +1,8 @@
 <section id="subscribe" class="section text-white mt-6">
     <div class="container text-center">
 
-        <p class="small-4 text-uppercase ls-2 fw-600 opacity-70">@lang('pages.footer.subscribe-mini')</p>
-        <h2>@lang('pages.footer.subscribe-main')</h2>
+        <p class="small-4 text-uppercase ls-2 fw-600 opacity-70">@lang('pages.layout.subscribe.mini')</p>
+        <h2>@lang('pages.layout.subscribe.main')</h2>
 
         <div class="row mt-7">
             <form class="col-md-8 col-xl-5 input-glass mx-auto" action="" method="post">
@@ -11,9 +11,9 @@
                     <div class="input-group-prepend">
                         <span class="input-group-text"><i class="fa fa-envelope"></i></span>
                     </div>
-                    <input type="text" name="email" class="form-control" placeholder="@lang('pages.footer.subscribe-email')">
+                    <input type="text" name="email" class="form-control" placeholder="@lang('pages.layout.subscribe.email')">
                     <span class="input-group-append">
-                  <button class="btn btn-light">@lang('pages.footer.subscribe-button')</button>
+                  <button class="btn btn-light">@lang('pages.layout.subscribe.button')</button>
                 </span>
                 </div>
             </form>
@@ -33,8 +33,7 @@
                 </div>
 
                 <hr>
-
-                <p class="text-center">@lang('pages.footer.footer-slogan')</p>
+                <p class="text-center">@lang('pages.layout.slogan')</p>
 
             </div>
         </div>

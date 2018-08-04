@@ -14,14 +14,17 @@ return [
         'Contact'  => 'CONTACT',
     ],
 
-    'footer' => [
+    'layout' => [
         'cookie-message'   => 'This website uses cookies to ensure you get the best experience on our website.',
         'cookie-button'    => 'GOT IT!',
-        'subscribe-mini'   => 'Stay up-to-date',
-        'subscribe-main'   => 'Subscribe our newsletter',
-        'subscribe-email'  => 'Enter Your Email',
-        'subscribe-button' => 'Subscribe',
-        'footer-slogan'    => 'We’re a team of code and business developers. We can combine beautiful, modern designs with clean, functional and high-performance code to produce stunning projects.',
+        'subscribe'        => [
+            'mini'   => 'Stay up-to-date',
+            'main'   => 'Subscribe our newsletter',
+            'email'  => 'Enter Your Email',
+            'button' => 'Subscribe',
+        ],
+        'slogan'           => 'We’re a team of code and business developers. We can combine beautiful, modern designs 
+                               with clean, functional and high-performance code to produce stunning projects.',
     ],
 
     'title' => [
