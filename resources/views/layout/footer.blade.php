@@ -5,16 +5,23 @@
         <h2>@lang('pages.layout.subscribe.main')</h2>
 
         <div class="row mt-7">
-            <form class="col-md-8 col-xl-5 input-glass mx-auto" action="" method="post">
-                {{ csrf_field() }}
+
+            <!-- Begin MailChimp Signup Form -->
+            <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+            <form action="https://fornaxstudio.us19.list-manage.com/subscribe/post?u=034416cddc34058acb37b7993&amp;id=6eeccd4781"
+                  method="post"
+                  id="mc-embedded-subscribe-form"
+                  name="mc-embedded-subscribe-form"
+                  class="col-md-8 col-xl-5 input-glass mx-auto validate"
+                  target="_blank" novalidate>
                 <div class="input-group input-group-lg1">
                     <div class="input-group-prepend">
                         <span class="input-group-text"><i class="fa fa-envelope"></i></span>
                     </div>
-                    <input type="text" name="email" class="form-control" placeholder="@lang('pages.layout.subscribe.email')">
+                    <input type="text" name="EMAIL" id="mce-EMAIL" class="form-control" placeholder="@lang('pages.layout.subscribe.email')">
                     <span class="input-group-append">
-                  <button class="btn btn-light">@lang('pages.layout.subscribe.button')</button>
-                </span>
+                        <button class="btn btn-light">@lang('pages.layout.subscribe.button')</button>
+                    </span>
                 </div>
             </form>
         </div>
