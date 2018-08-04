@@ -1,4 +1,4 @@
-<section id="subscribe" class="section text-white">
+<section id="subscribe" class="section text-white mt-6">
     <div class="container text-center">
 
         <p class="small-4 text-uppercase ls-2 fw-600 opacity-70">@lang('pages.footer.subscribe-mini')</p>
@@ -22,7 +22,7 @@
     </div>
 </section>
 <!-- Footer -->
-<footer class="footer m-6">
+<footer class="footer m-4">
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-lg-6 mx-auto">
