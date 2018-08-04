@@ -140,7 +140,7 @@
   background-repeat:   no-repeat;
   background-position: top center;
 }
-#contact-header h1,#contact-header p
+#contact-header h1,#contact-header p,#project-header h1,#project-header p
 {
   color:#fff ;
 }

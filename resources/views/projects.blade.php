@@ -7,11 +7,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <h1 class="fw-200 mb-6">@lang('pages.title.Projects')</h1>
-                    <p class="lead-2">These blocks help you to demonstrate the features of your product with details, images, and illustrations.</p>
-
-                    <hr class="w-50px ml-0">
-
-                    <a class="text-muted" href="index.html">Explore all the available blocks</a>
+                    <p class="lead-2">@lang('pages.page-line.Projects')</p>
                 </div>
             </div>
         </div>

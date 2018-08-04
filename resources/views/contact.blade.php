@@ -7,7 +7,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <h1 class="fw-200 mb-6">@lang('pages.title.Contact')</h1>
-                    <p class="lead-2">You have access to a plenty of contact form, contact information and Google map styles.</p>
+                    <p class="lead-2">@lang('pages.page-line.Contact')</p>
                 </div>
             </div>
         </div>
