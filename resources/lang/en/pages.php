@@ -69,6 +69,6 @@ return [
     ],
 
     'footer' => [
-        'Footer Text'     => 'We’re a team of experienced designers and developers. We can combine beautiful, modern designs with clean, functional and high-performance code to produce stunning software.',
+        'Footer Slogan'     => 'We’re a team of experienced designers and developers. We can combine beautiful, modern designs with clean, functional and high-performance code to produce stunning software.',
     ],
 ];
