@@ -43,6 +43,23 @@ return [
                             and having fun.',
         'Explore Our Values'   => 'Explore Our Values',
         'Explore Our Products' => 'Explore Our Products',
+
+        'Fornax Constellation' => 'FORNAX CONSTELLATION',
+        'lead'                 => 'Companies are made up of people.<br>And when those people have the right tools, they can turn their business dreams into reality.',
+
+        'What is Fornax'       => 'What is Fornax?',
+        'Fornax Description'   => 'Fornax has different usages but we love all of them! It\'s a Roman goddess, one of the 88 modern constellations made by three bright stars named Alpha, Beta and Nu Fornacis. One more thing, Fornax A (NGC 1316) is a galaxy, far far away.',
+
+        'values'               => [
+            1 => 'Transparency',
+            2 => 'Trust',
+            3 => 'Collaboration',
+            4 => 'Efficiency',
+            5 => 'Autonomy',
+            6 => 'Team',
+            7 => 'Responsibility',
+            8 => 'Constant Change',
+        ]
     ],
 
     'projects' => [

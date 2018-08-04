@@ -43,6 +43,25 @@ return [
                             hayatımıza ve yaptığımız işlerden keyif almaya devam ediyoruz.',
         'Explore Our Values'   => 'Şirket Değerlerimiz',
         'Explore Our Products' => 'Ürünlerimize Gözatın',
+
+        'Fornax Constellation' => 'FORNAX TAKIMYILDIZI',
+        'lead'                 => 'Şirketler insanlar için vardır.<br>Eğer insanlar doğru araçlara sahip olurlarsa, hayallerini gerçeğe dönüştürebilirler.',
+
+        'What is Fornax'       => 'Fornax Nedir?',
+        'Fornax Description'   => 'Fornax bir den fazla kullanıma sahip ama biz hepsini seviyoruz! Bir Roma tanrıçası, 
+                                   Alpha, Beta and Nu Fornacis adlı üç yıldızdan meydana gelen 88 modern takımyıldızdan biri.
+                                   Bir diğer kullanımı ise, Fornax A (NGC 1316)... Bir oldukça uzak bir galaksi.',
+
+        'values'               => [
+            1 => 'Şeffaflık',
+            2 => 'Güven',
+            3 => 'İşbirliği',
+            4 => 'Verim',
+            5 => 'Otonomi',
+            6 => 'Takım',
+            7 => 'Sorumluluk',
+            8 => 'Sürekli Değişim',
+        ]
     ],
 
     'projects' => [

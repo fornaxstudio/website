@@ -31,13 +31,11 @@
         <section id="section-demo" class="section overflow-hidden bg-gray">
             <div class="container">
                 <header class="section-header">
-                    <small>"Fornax Constellation"</small>
-                    <h2>Projects</h2>
+                    <small>"@lang('pages.home.Fornax Constellation')"</small>
+                    <h2>@lang('pages.title.Projects')</h2>
                     <hr>
-                    <p class="lead">Companies are made up of people.
-                        <br>And when those people have the right tools, they can turn their business dreams into reality.</p>
+                    <p class="lead">@lang('pages.home.lead')</p>
                 </header>
-
 
                 <div class="row gap-y">
 
@@ -178,8 +176,8 @@
 
                     <div class="col-lg-6">
 
-                        <h2 class="mb-5">What is Fornax?</h2>
-                        <p class="lead mb-0">Fornax has different usages but we love all of them! It's a Roman goddess, one of the 88 modern constellations made by three bright stars named Alpha, Beta and Nu Fornacis. One more thing, Fornax A (NGC 1316) is a galaxy, far far away.</p>
+                        <h2 class="mb-5">@lang('pages.home.What is Fornax')</h2>
+                        <p class="lead mb-0">@lang('pages.home.Fornax Description')</p>
 
                         <br><hr class="w-30 ml-0"><br>
 
@@ -189,14 +187,14 @@
                             <div class="col">
                                 <a class="card card-body border hover-shadow-6 text-center py-6">
                                     <p><i class="icon-picture lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">Transparency</h6>
+                                    <h6 class="mb-0">@lang('pages.home.values.1')</h6>
                                 </a>
                             </div>
 
                             <div class="col">
                                 <a class="card card-body border hover-shadow-6 text-center py-6">
                                     <p><i class="icon-picture lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">Trust</h6>
+                                    <h6 class="mb-0">@lang('pages.home.values.2')</h6>
                                 </a>
                             </div>
 
@@ -204,7 +202,7 @@
                             <div class="col">
                                 <a class="card card-body border hover-shadow-6 text-center py-6">
                                     <p><i class="icon-genius lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">Collaboration</h6>
+                                    <h6 class="mb-0">@lang('pages.home.values.3')</h6>
                                 </a>
                             </div>
 
@@ -212,7 +210,7 @@
                             <div class="col">
                                 <a class="card card-body border hover-shadow-6 text-center py-6">
                                     <p><i class="icon-browser lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">Efficiency</h6>
+                                    <h6 class="mb-0">@lang('pages.home.values.4')</h6>
                                 </a>
                             </div>
 
@@ -220,7 +218,7 @@
                             <div class="col">
                                 <a class="card card-body border hover-shadow-6 text-center py-6">
                                     <p><i class="icon-basket lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">Autonomy</h6>
+                                    <h6 class="mb-0">@lang('pages.home.values.5')</h6>
                                 </a>
                             </div>
 
@@ -228,14 +226,14 @@
                             <div class="col">
                                 <a class="card card-body border hover-shadow-6 text-center py-6">
                                     <p><i class="icon-profile-male lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">Team</h6>
+                                    <h6 class="mb-0">@lang('pages.home.values.6')</h6>
                                 </a>
                             </div>
 
                             <div class="col">
                                 <a class="card card-body border hover-shadow-6 text-center py-6">
                                     <p><i class="icon-pencil lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">Responsibility</h6>
+                                    <h6 class="mb-0">@lang('pages.home.values.7')</h6>
                                 </a>
                             </div>
 
@@ -243,7 +241,7 @@
                             <div class="col">
                                 <a class="card card-body border hover-shadow-6 text-center py-6">
                                     <p><i class="icon-video lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">Constant Change</h6>
+                                    <h6 class="mb-0">@lang('pages.home.values.8')</h6>
                                 </a>
                             </div>
 
