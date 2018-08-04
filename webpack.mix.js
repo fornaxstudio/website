@@ -16,6 +16,6 @@ mix.styles([
     'public/assets/css/style.css'
 ], 'public/assets/css/compiled.css');
 mix.js([
-    'public/assets/js/page.min.js',
+    'public/assets/js/page.js',
     'public/assets/js/script.js',
 ], 'public/assets/js/compiled.js');
