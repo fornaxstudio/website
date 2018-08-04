@@ -23,10 +23,15 @@
                 <li class="nav-item">
                     <a class="nav-link" href="{{ url('/contact') }}">@lang('pages.menu.Contact')</a>
                 </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="#"><img src="{{ asset('assets/img/language.png') }}" width="25" alt="English, Türkçe"> <span class="arrow"></span></a>
+                    <nav class="nav">
+                        <a class="nav-link" href="{{ url('language/?locale=en') }}">English</a>
+                        <a class="nav-link" href="{{ url('language/?locale=tr') }}">Türkçe</a>
+                    </nav>
+                </li>
             </ul>
         </section>
-
-        {{--<a class="btn btn-xs btn-round btn-success" href="#">Buy Now</a>--}}
-
     </div>
 </nav><!-- /.navbar -->
