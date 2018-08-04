@@ -45,7 +45,7 @@ return [
         'Explore Our Products' => 'Ürünlerimize Gözatın',
 
         'Fornax Constellation' => 'FORNAX TAKIMYILDIZI',
-        'lead'                 => 'Şirketler insanlar için vardır.<br>Eğer insanlar doğru araçlara sahip olurlarsa, hayallerini gerçeğe dönüştürebilirler.',
+        'lead'                 => 'İnsanlar doğru araçlara sahip olurlarsa, hayallerini gerçeğe dönüştürebilirler.',
 
         'What is Fornax'       => 'Fornax Nedir?',
         'Fornax Description'   => 'Fornax bir den fazla kullanıma sahip ama biz hepsini seviyoruz! Bir Roma tanrıçası, 
