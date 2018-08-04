@@ -1404,7 +1404,7 @@ pre {
   background-color: #fff;
   -webkit-background-clip: padding-box;
           background-clip: padding-box;
-  border: 1px solid #eaeff4;
+  border: 1px solid #3e9fb5;
   border-radius: 2px;
   -webkit-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out; }
@@ -2693,7 +2693,7 @@ input[type="button"].btn-block {
   text-align: center;
   white-space: nowrap;
   background-color: #e9ecef;
-  border: 1px solid #eaeff4;
+  border: 1px solid #3e9fb5;
   border-radius: 2px; }
   .input-group-text input[type="radio"],
   .input-group-text input[type="checkbox"] {
@@ -2820,7 +2820,7 @@ input[type="button"].btn-block {
   background: #fff url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'%3E%3Cpath fill='%23343a40' d='M2 0L0 2h4zm0 5L0 3h4z'/%3E%3C/svg%3E") no-repeat right 0.75rem center;
   -webkit-background-size: 8px 10px;
           background-size: 8px 10px;
-  border: 1px solid #eaeff4;
+  border: 1px solid #3e9fb5;
   border-radius: 0.25rem;
   -webkit-appearance: none;
      -moz-appearance: none;
@@ -2891,7 +2891,7 @@ input[type="button"].btn-block {
   line-height: 1.9;
   color: #999999;
   background-color: #fff;
-  border: 1px solid #eaeff4;
+  border: 1px solid #3e9fb5;
   border-radius: 2px; }
   .custom-file-label::after {
     position: absolute;
@@ -2906,7 +2906,7 @@ input[type="button"].btn-block {
     color: #999999;
     content: "Browse";
     background-color: #e9ecef;
-    border-left: 1px solid #eaeff4;
+    border-left: 1px solid #3e9fb5;
     border-radius: 0 2px 2px 0; }
 
 .custom-range {
@@ -3647,13 +3647,13 @@ input[type="button"].btn-block {
   line-height: 32px;
   color: #757575;
   background-color: #fff;
-  border: 1px solid #eaeff4; }
+  border: 1px solid #3e9fb5; }
   .page-link:hover {
     z-index: 2;
     color: #757575;
     text-decoration: none;
     background-color: #fafbfb;
-    border-color: #eaeff4; }
+    border-color: #3e9fb5; }
   .page-link:focus {
     z-index: 2;
     outline: 0;
@@ -13001,7 +13001,7 @@ you can use the generic selector below, but it's slower:
   height: 40px;
   background-color: rgba(255, 255, 255, 0.95);
   border-radius: 10rem;
-  border: 1px solid #eaeff4;
+  border: 1px solid #3e9fb5;
   opacity: 0.7; }
   .slider-arrows-circle-light .slick-prev::before,
   .slider-arrows-circle-light .slick-next::before {
@@ -13182,14 +13182,14 @@ you can use the generic selector below, but it's slower:
 
 .slider-dots-fill .slick-dots button {
   border: none;
-  background-color: #eaeff4; }
+  background-color: #3e9fb5; }
 
 .slider-dots-fill .slick-dots .slick-active button {
   background-color: #929daf; }
 
 .slider-dots-fill-primary .slick-dots button {
   border: none;
-  background-color: #eaeff4; }
+  background-color: #3e9fb5; }
 
 .slider-dots-fill-primary .slick-dots .slick-active button {
   background-color: #50a1ff; }
@@ -13202,7 +13202,7 @@ you can use the generic selector below, but it's slower:
   border: none;
   width: 24px;
   height: 2px;
-  background-color: #eaeff4; }
+  background-color: #3e9fb5; }
 
 .slider-dots-line .slick-dots .slick-active button {
   width: 34px;
@@ -14360,7 +14360,7 @@ hr {
     content: '';
     -webkit-box-flex: 1;
             flex-grow: 1;
-    border-top: 1px solid #eaeff4; }
+    border-top: 1px solid #3e9fb5; }
   .divider::before {
     margin-right: 1rem; }
   .divider::after {
@@ -14438,7 +14438,7 @@ img {
   font-weight: 400; }
 
 .table thead th {
-  border-bottom: 1px solid #eaeff4; }
+  border-bottom: 1px solid #3e9fb5; }
 
 .table-hover tbody tr {
   -webkit-transition: background-color 0.2s linear;
@@ -15599,7 +15599,7 @@ button:focus {
     margin-bottom: 0.5rem; }
 
 .nav-sidebar-hero > .nav-item {
-  border-bottom: 1px dashed #eaeff4;
+  border-bottom: 1px dashed #3e9fb5;
   padding-top: 2px;
   padding-bottom: 6px; }
   .nav-sidebar-hero > .nav-item:last-child {
@@ -15986,7 +15986,7 @@ button:focus {
   text-align: center; }
   .step-icon .iconbox {
     color: #bfc5ca;
-    background-color: #eaeff4;
+    background-color: #3e9fb5;
     font-size: 1.5rem; }
   .step-icon::before {
     content: '';
@@ -15995,7 +15995,7 @@ button:focus {
     top: 48px;
     bottom: -2rem;
     margin-left: -1px;
-    border-left: 2px dashed #eaeff4; }
+    border-left: 2px dashed #3e9fb5; }
 
 .step-content {
   margin-left: 1rem; }
@@ -16839,7 +16839,7 @@ button:focus {
   font-size: 0.9375rem; }
 
 .social-bordered a {
-  border: 1px solid #eaeff4; }
+  border: 1px solid #3e9fb5; }
 
 .social-bordered.social-gray a {
   border-color: #f5f6f7; }
@@ -17043,7 +17043,7 @@ button:focus {
   .custom-control-label::before {
     position: static;
     top: auto;
-    border: 1px solid #eaeff4;
+    border: 1px solid #3e9fb5;
     margin-right: 0.5rem; }
   .custom-control-label::after {
     -webkit-transform: scale(0);
@@ -17257,7 +17257,7 @@ select:invalid {
   display: none; }
 
 .input-group {
-  border: 1px solid #eaeff4;
+  border: 1px solid #3e9fb5;
   border-radius: 2px;
   -webkit-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out; }
@@ -17359,7 +17359,7 @@ select:invalid {
           background-size: 0 1px, 100% 1px;
   background-repeat: no-repeat;
   background-position: center bottom, center calc(100%);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#96c7ff), to(#96c7ff)), -webkit-gradient(linear, left top, left bottom, from(#eaeff4), to(#eaeff4));
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#96c7ff), to(#96c7ff)), -webkit-gradient(linear, left top, left bottom, from(#3e9fb5), to(#3e9fb5));
   background-image: -webkit-linear-gradient(#96c7ff, #96c7ff), -webkit-linear-gradient(#eaeff4, #eaeff4);
   background-image: linear-gradient(#96c7ff, #96c7ff), linear-gradient(#eaeff4, #eaeff4);
   -webkit-transition: background 0.3s;
@@ -18404,7 +18404,7 @@ body:not(.body-scrolled) .topbar.d-flex ~ .navbar {
 
 [data-navbar="static"] {
   position: static;
-  border-bottom: 1px solid #eaeff4;
+  border-bottom: 1px solid #3e9fb5;
   top: auto; }
 
 [data-navbar="fixed"] {
