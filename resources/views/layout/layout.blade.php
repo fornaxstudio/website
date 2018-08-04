@@ -28,6 +28,7 @@
 <body class="@stack('body-class')">
 @yield('page')
 <script src="{{ asset('assets/js/compiled.js') }}"></script>
+{!! NoCaptcha::renderJs() !!}
 @stack('scripts')
 <script>@stack('code')</script>
 </body>

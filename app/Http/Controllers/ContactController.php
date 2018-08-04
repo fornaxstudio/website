@@ -18,6 +18,6 @@ Class ContactController extends Controller
         //send the admin an notification
         //$admin->notify(new InboxMessage($message));
         // redirect the user back
-        return redirect()->back()->with('message', __('pages.contact.Message sent!'));
+        return redirect()->back()->with('message', __('pages.contact.Message sent'));
     }
 }

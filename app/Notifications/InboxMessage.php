@@ -38,12 +38,13 @@ class InboxMessage extends Notification
     public function toMail($notifiable)
     {
         return (new MailMessage)
-            ->subject(config('admin.name') . ", yeni mesaj!")
+            ->subject(config('admin.name'))
             ->greeting(" ")
             ->salutation(" ")
             ->from(config('mail.username'))
             ->line($this->message->name)
             ->line($this->message->email)
+            ->line($this->message->company)
             ->line($this->message->subject)
             ->line($this->message->message)
             ->line(date('d-m-Y, H:i:s'));

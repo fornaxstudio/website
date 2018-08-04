@@ -35,6 +35,14 @@ return [
     ],
 
     'contact' => [
-        'Message sent!' => 'Mesaj gönderildi!',
+        'Lets Talk'     => 'Bize Ulaşın',
+        'Drop us a line'=> 'Mesajınızı ulaştırmak için, lütfen aşağıdaki formu kullanınız.',
+        'Name'          => 'İsim',
+        'Email'         => 'E-posta',
+        'Subject'       => 'Konu',
+        'Company'       => 'Şirket',
+        'Message'       => 'Mesajınız',
+        'Submit Inquiry'=> 'Gönder',
+        'Message sent'  => 'Mesajınız bize ulaştı. Size en kısa sürede dönüş yapacağız.',
     ],
 ];

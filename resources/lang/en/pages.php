@@ -35,6 +35,14 @@ return [
     ],
 
     'contact' => [
-        'Message sent!' => 'Message sent!',
+        'Lets Talk'     => 'Let\'s Talk',
+        'Drop us a line'=> 'Drop us a line',
+        'Name'          => 'Name',
+        'Email'         => 'Email',
+        'Subject'       => 'Subject',
+        'Company'       => 'Company',
+        'Message'       => 'Message',
+        'Submit Inquiry'=> 'Submit Inquiry',
+        'Message sent'  => 'We received your message and will contact you back soon.',
     ],
 ];
