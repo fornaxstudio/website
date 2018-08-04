@@ -140,6 +140,10 @@
   background-repeat:   no-repeat;
   background-position: top center;
 }
+#contact-header h1,#contact-header p
+{
+  color:#fff ;
+}
 #project-header
 {
   background-image: url('../backgrounds/projects.jpg');
