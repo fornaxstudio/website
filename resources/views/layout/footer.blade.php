@@ -42,13 +42,13 @@
         </div>
     </div>
 </footer><!-- /.footer -->
-<div id="popup-cookie-3" class="popup text-white bg-dark col-10 py-4" data-position="bottom-center" data-animation="slide-up">
+<div id="popup-cookie-3" class="popup text-white bg-dark col-10 py-4" data-once="cookie-alert" data-autoshow="true" data-position="bottom-center" data-animation="slide-up">
     <div class="row gap-y align-items-center">
         <div class="col-md">
-            @lang('pages.footer.cookie-message')
+            @lang('pages.layout.cookie-message')
         </div>
         <div class="col-md-auto">
-            <button class="btn btn-sm btn-outline-light" data-dismiss="popup">@lang('pages.footer.cookie-button')</button>
+            <button class="btn btn-sm btn-outline-light" data-dismiss="popup" data-once-button="true">@lang('pages.layout.cookie-button')</button>
         </div>
     </div>
 </div>
