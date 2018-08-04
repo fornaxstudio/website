@@ -5,10 +5,7 @@
         <h2>@lang('pages.layout.subscribe.main')</h2>
 
         <div class="row mt-7">
-
-            <!-- Begin MailChimp Signup Form -->
-            <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-            <form action="https://fornaxstudio.us19.list-manage.com/subscribe/post?u=034416cddc34058acb37b7993&amp;id=6eeccd4781"
+            <form action="{{ url('https://fornaxstudio.us19.list-manage.com/subscribe/post?u=034416cddc34058acb37b7993&amp;id=6eeccd4781') }}"
                   method="post"
                   id="mc-embedded-subscribe-form"
                   name="mc-embedded-subscribe-form"
@@ -25,7 +22,6 @@
                 </div>
             </form>
         </div>
-
     </div>
 </section>
 <!-- Footer -->
