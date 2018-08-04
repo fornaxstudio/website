@@ -23,8 +23,8 @@ return [
             'email'  => 'E-posta adresinizi girin',
             'button' => 'Takip Et',
         ],
-        'slogan'           => 'We’re a team of code and business developers. We can combine beautiful, modern designs
-                              with clean, functional and high-performance code to produce stunning projects.',
+        'slogan'           => 'Kod ve iş geliştiren bir ekibiz. Güzel ve modern tasarımları, temiz, fonksiyonel ve yüksek
+                               permormanslı şekilde kodlayarak işlevsel projeler üretiyoruz.',
     ],
 
     'title' => [
@@ -35,20 +35,21 @@ return [
 
     'page-line' => [
         'Home'     => [
-            'home-intro' => '<strong>'.config('app.name').'</strong> is an employee-owned and fully-remote company dedicated to awesome software and enthusiastic 
-                            customer support. We treat each other with respect. We value transparency and our people are independent, 
-                            skilled and highly motivated. We’re privileged to be able to work each day with smart and talented people who
-                            are passionate about creating great software. All while treating customers with respect, making a living, 
-                            and having fun.',
-            'Explore Our Values'   => 'Explore Our Values',
-            'Explore Our Products' => 'Explore Our Products',
+            'home-intro' => '<strong>'.config('app.name').'</strong> etkileyici yazılım ve hevesli müşteri desteğine 
+                            adanmış, çalışanlarına ait ve tamamen lokasyon bağımsız bir şirkettir. Birbirimize saygıyla 
+                            davranırız. Şeffaflığa değer veriyoruz ve çalışanlarımızın bağımsız, yetenekli ve yüksek motivasyonlu
+                            olması her zaman önceliğimizdir. Harika yazılımlar oluşturma konusunda tutkulu olan, bilgili ve 
+                            yetenekli kişilerle çalışabilme ayrıcalığına sahibiz. Müşterilerilerimize istediklerini verirken,
+                            hayatımıza ve yaptığımız işlerden keyif almaya devam ediyoruz.',
+            'Explore Our Values'   => 'Şirket Değerlerimiz',
+            'Explore Our Products' => 'Ürünlerimize Gözatın',
         ],
         'Projects' => 'Projeler',
         'Contact'  => 'İletişim',
     ],
 
     'projects' => [
-        'We Have More to Discover' => 'Daha Fazlasını Keşfedin',
+        'There is always something more to learn' => 'Her zaman yeni öğrenecek bir şey var',
         'Lead Text'                => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet mi eu odio tincidunt, a imperdiet eros venenatis. Cras tincidunt imperdiet sem et semper.',
     ],
 
