@@ -1,26 +1,17 @@
 @extends('layout.page')
 @section('title', __('pages.title.Contact'))
 @section('content')
+
     <!-- Header -->
-    <header class="header pb-9 pt-10 mb-9" id="contact-header">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <h1 class="fw-200 mb-6">@lang('pages.title.Contact')</h1>
-                    <p class="lead-2">@lang('pages.page-line.Contact')</p>
-                </div>
-            </div>
+    <header class="header">
+        <div class="container text-center">
+            <small>@lang('pages.title.Contact')</small>
+            <h1 class="display-4 mb-7">@lang('pages.contact.Lets Talk')</h1>
+            <p class="lead">@lang('pages.contact.Drop us a line')</p>
         </div>
     </header><!-- /.header -->
     <main class="main-content">
         <div class="container">
-            <header class="section-header">
-                <small>@lang('pages.title.Contact')</small>
-                <h2 class="display-4">@lang('pages.contact.Lets Talk')</h2>
-                <hr>
-                <p class="lead">@lang('pages.contact.Drop us a line')</p>
-            </header>
-
             <form class="form-row input-border" action="{{ action('ContactController@mailToAdmin') }}" method="POST">
                 {{ csrf_field() }}
                 <div class="col-12">
