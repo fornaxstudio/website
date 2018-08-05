@@ -19,7 +19,7 @@ return [
         'cookie-button'    => 'GOT IT!',
         'subscribe'        => [
             'mini'   => 'Stay up-to-date',
-            'main'   => 'Subscribe our newsletter',
+            'main'   => 'Subscribe to our newsletter',
             'email'  => 'Enter Your Email',
             'button' => 'Subscribe',
         ],
@@ -35,17 +35,17 @@ return [
 
     'home'     => [
         'type-intro' => 'We are',
-        'type'       => 'forward-thinking, fully-remote, open company,',
+        'type'       => 'forward-thinking., fully-remote., an open company.,',
         'home-intro' => '<strong>'.config('app.name').'</strong> is an employee-owned and fully-remote company dedicated to awesome software and enthusiastic 
                             customer support. We treat each other with respect. We value transparency and our people are independent, 
                             skilled and highly motivated. We’re privileged to be able to work each day with smart and talented people who
                             are passionate about creating great software. All while treating customers with respect, making a living, 
                             and having fun.',
         'Explore Our Values'   => 'Explore Our Values',
-        'Explore Our Products' => 'Explore Our Products',
+        'Explore Our Products' => 'Explore Our Projects',
 
         'Fornax Constellation' => 'FORNAX CONSTELLATION',
-        'lead'                 => 'Companies are made up of people.<br>And when those people have the right tools, they can turn their business dreams into reality.',
+        'lead'                 => 'Companies are made up of people.<br>And when those people have the right tools, they can turn their dreams into reality.',
 
         'What is Fornax'       => 'What is Fornax?',
         'Fornax Description'   => 'Fornax has different usages but we love all of them! It\'s a Roman goddess, one of the 88 modern constellations made by three bright stars named Alpha, Beta and Nu Fornacis. One more thing, Fornax A (NGC 1316) is a galaxy, far far away.',
@@ -64,11 +64,10 @@ return [
 
     'projects' => [
         'There is always something more to learn' => 'There is always something more to learn',
-        'Lead Text'                => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet mi eu odio tincidunt, a imperdiet eros venenatis. Cras tincidunt imperdiet sem et semper.',
         'Project1' => 'dNGO',
-        'Project1 Text' => 'The principal aim we pursue is to build a decentralized non-governmental organization on blockchain to increase user participation in social change by incentivising contributions with cryptocurrencies. As for the first project, namely Dngo Books, it attempts to create a collectively produced, multilingual and publicly accessible audiobook archive.',
+        'Project1 Text' => 'The principal aim we pursue is to build a decentralized non-governmental organization on blockchain to increase user participation in social change by incentivising contributions with cryptocurrencies. As for the first project, namely dNGO Books, it attempts to create a collectively produced, multilingual and publicly accessible audiobook archive.',
         'Project2' => 'rezervapp',
-        'Project2 Text' => 'Rezervapp is an intuitive and user-friendly property management software. It is created for hotels, campgrounds, lodgings to easily manage rental properties, provide guest services and automate the booking process',
+        'Project2 Text' => 'rezervapp is an intuitive and user-friendly property management software. It is created for hotels, campgrounds and lodgings to easily manage rental properties, provide guest services and automate the booking process',
         'Project3' => 'KALI',
         'Project3 Text' => 'blabla3',
 
