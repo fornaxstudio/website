@@ -42,7 +42,7 @@ return [
                             yetenekli kişilerle çalışabilme ayrıcalığına sahibiz. Müşterilerilerimize istediklerini verirken,
                             hayatımıza ve yaptığımız işlerden keyif almaya devam ediyoruz.',
         'Explore Our Values'   => 'Şirket Değerlerimiz',
-        'Explore Our Products' => 'Ürünlerimize Gözatın',
+        'Explore Our Products' => 'Projelerimize Gözatın',
 
         'Fornax Constellation' => 'FORNAX TAKIMYILDIZI',
         'lead'                 => 'İnsanlar doğru araçlara sahip olurlarsa, hayallerini gerçeğe dönüştürebilirler.',
@@ -71,7 +71,7 @@ return [
                             üzerinde kripto paraları kullanan merkeziyetsiz sivil toplum kuruluşu oluşturmaktır. İlk proje 
                             olan dNGO Books, çok dilli ve herkese açık bir sesli kitap arşivi oluşturmaya çalışıyor.',
         'Project2'      => 'rezervapp',
-        'Project2 Text' => 'Rezervapp, kullanıcı dostu bir tesis yönetim yazılımıdır. Otel, pansiyon, kamp alanı gibi tesislerin 
+        'Project2 Text' => 'Rezervapp, kullanıcı dostu bir tesis yönetim yazılımıdır. Otel, pansiyon ve kamp alanı gibi tesislerin 
                             kolayca yönetilebilmeleri, hizmetleri sunabilmeleri ve rezervasyon sürecini otomatize edilmesi
                             için oluşturulmuştur.',
         'Project3'      => 'KALI',
