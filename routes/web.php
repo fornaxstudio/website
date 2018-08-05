@@ -15,6 +15,7 @@ Route::get('/', function () {
     return view('home');
 });
 
+Route::get('/language/{lang}', 'LanguageSwitcherController@index');
 Route::get('/language', 'LanguageSwitcherController@index');
 Route::get('/contact', 'ContactController@show');
 Route::post('/contact',  'ContactController@mailToAdmin');

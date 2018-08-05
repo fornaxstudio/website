@@ -7,14 +7,22 @@ use Illuminate\Http\Request;
 class LanguageSwitcherController extends Controller
 {
     /**
-     * Language switcher
+     * Language switcher.
      *
+     * @param null|string $lang
      * @param Request $request
      * @return \Illuminate\Http\RedirectResponse
      */
-    public function index(Request $request)
+    public function index(?string $lang = null, Request $request)
     {
-        $request->session()->put('locale', $request->get('locale'));
+        if(!empty($lang))
+        {
+            $locale = $lang;
+        } else {
+            $locale = $request->get('locale');
+        }
+
+        $request->session()->put('locale', $locale);
         return redirect()->back();
     }
 }
