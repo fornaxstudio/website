@@ -12,7 +12,7 @@
 
     <!-- Styles -->
     <link href="{{ asset('assets/css/compiled.css') }}" rel="stylesheet">
-
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Dosis:200,400,500,600">
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="{{ asset('assets/img/apple-touch-icon.png') }}">
     <link rel="icon" href="{{ asset('assets/img/favicon.png') }}">
