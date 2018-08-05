@@ -18,13 +18,12 @@
                 </div>
 
                 <div class="col-md-5 order-md-first">
-                    <img class="rounded shadow-2" src="{{ asset('assets/img/preview/dngo.png') }}" alt="DNGO">
+                    <a href="https://dngo.io" target="_blank">
+                    <img class="rounded shadow-2" src="{{ asset('assets/img/preview/dngo.png')}}" alt="DNGO">
                 </div>
             </div>
 
-
             <hr class="my-8">
-
 
             <div class="row gap-y align-items-center">
                 <div class="col-md-6 mr-auto">
@@ -33,10 +32,10 @@
                 </div>
 
                 <div class="col-md-5">
+                    <a href="https://www.rezervapp.com" target="_blank">
                     <img class="rounded shadow-2" src="{{ asset('assets/img/preview/rezervapp.png')}}" alt="Rezervapp">
                 </div>
             </div>
-
 
             <hr class="my-8">
 
