@@ -18,8 +18,9 @@
                 </div>
 
                 <div class="col-md-5 order-md-first">
-                    <a href="{{ url('https://dngo.io') }}" target="_blank">
-                    <img class="rounded shadow-2" src="{{ asset('assets/img/preview/dngo.png')}}" alt="DNGO">
+                    <a href="{{ url('https://dngo.io') }}">
+                        <img class="rounded shadow-2" src="{{ asset('assets/img/preview/dngo.png')}}" alt="@lang('pages.projects.Project1')">
+                    </a>
                 </div>
             </div>
 
@@ -32,8 +33,9 @@
                 </div>
 
                 <div class="col-md-5">
-                    <a href="{{ url('http://www.rezervapp.com') }}" target="_blank">
-                    <img class="rounded shadow-2" src="{{ asset('assets/img/preview/rezervapp.png')}}" alt="Rezervapp">
+                    <a href="{{ url('https://rezervapp.com') }}">
+                        <img class="rounded shadow-2" src="{{ asset('assets/img/preview/rezervapp.png')}}" alt="@lang('pages.projects.Project2')">
+                    </a>
                 </div>
             </div>
 
