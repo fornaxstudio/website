@@ -10,7 +10,7 @@ return [
 
     'website' => [
         'author'      => 'Fornax Studio',
-        'keywords'    => 'fornax studio, blockchain, açık şirket',
-        'description' => 'Fornax Studio geleceği düşünen, lokasyon bağımsız, şeffaf bir şirkettir.',
+        'keywords'    => 'fornax studio, blockchain, open company',
+        'description' => 'Fornax Studio is a forward-thinking, fully-remote, open company.',
     ],
 ];
