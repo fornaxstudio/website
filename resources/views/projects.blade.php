@@ -18,7 +18,7 @@
                 </div>
 
                 <div class="col-md-5 order-md-first">
-                    <a href="https://dngo.io" target="_blank">
+                    <a href="{{ url('https://dngo.io') }}" target="_blank">
                     <img class="rounded shadow-2" src="{{ asset('assets/img/preview/dngo.png')}}" alt="DNGO">
                 </div>
             </div>
@@ -32,7 +32,7 @@
                 </div>
 
                 <div class="col-md-5">
-                    <a href="https://www.rezervapp.com" target="_blank">
+                    <a href="{{ url('http://www.rezervapp.com') }}" target="_blank">
                     <img class="rounded shadow-2" src="{{ asset('assets/img/preview/rezervapp.png')}}" alt="Rezervapp">
                 </div>
             </div>
