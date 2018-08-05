@@ -6,7 +6,7 @@
         <div class="container position-static">
             <div class="row align-items-center h-100">
                 <div class="col-lg-7">
-                    <h1 class="display-4 fw-500">@lang('pages.home.type-intro') <span class="fw-400 pl-2" data-typing="@lang('pages.home.type')" data-type-speed="80"></span></h1>
+                    <h1 class="display-4 fw-500 d-none d-sm-block">@lang('pages.home.type-intro') <span class="fw-400 pl-2" data-typing="@lang('pages.home.type')" data-type-speed="80"></span></h1>
                     <p class="lead mt-5 mb-7 mb-md-9 w-80">@lang('pages.home.home-intro')</p>
                     <a class="btn btn-xl btn-round btn-success w-220 mr-3 px-6" href="#section-demo">@lang('pages.home.Explore Our Products')</a>
                     <a class="btn btn-xl btn-round btn-outline-light w-220 px-6 d-none d-md-inline-block" href="#section-values">@lang('pages.home.Explore Our Values')</a>
