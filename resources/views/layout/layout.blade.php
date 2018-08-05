@@ -7,7 +7,7 @@
     <meta name="description" content="@lang('general.website.description')">
     <meta name="author" content="@lang('general.website.author')">
     <link rel="icon" href="{{ asset('assets/img/favicon.png') }}">
-
+    <link rel="canonical" href="{{ config('app.url') }}">
     <title>@yield('title') | {{ config('app.name') }}</title>
 
     <!-- Styles -->
