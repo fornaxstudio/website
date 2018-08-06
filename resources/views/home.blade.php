@@ -49,89 +49,96 @@
 
             </div>
         </section>
-        <section id="section-values" class="section pb-10">
-            <div class="container">
-                <div class="row gap-y align-items-center">
+        <section class="section text-white p-0" id="fornax">
+            <div class="container-wide">
+                <div class="row no-gutters">
 
-                    <div class="col-lg-6">
+                    <div class="col-md-4 bg-img" id="home-fornax-section"></div>
 
-                        <h2 class="mb-5">@lang('pages.home.What is Fornax')</h2>
-                        <p class="lead mb-0">@lang('pages.home.Fornax Description')</p>
-
-                        <br><hr class="w-30 ml-0"><br>
-                        <div class="row gap-y" data-provide="slider" data-slides-to-show="3" data-slides-to-scroll="2" data-dots="true">
-
-                            <div class="col">
-                                <a class="card card-body border hover-shadow-6 text-center py-6">
-                                    <p><i class="icon-picture lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">@lang('pages.home.values.1')</h6>
-                                </a>
-                            </div>
-
-                            <div class="col">
-                                <a class="card card-body border hover-shadow-6 text-center py-6">
-                                    <p><i class="icon-picture lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">@lang('pages.home.values.2')</h6>
-                                </a>
-                            </div>
-
-
-                            <div class="col">
-                                <a class="card card-body border hover-shadow-6 text-center py-6">
-                                    <p><i class="icon-genius lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">@lang('pages.home.values.3')</h6>
-                                </a>
-                            </div>
-
-
-                            <div class="col">
-                                <a class="card card-body border hover-shadow-6 text-center py-6">
-                                    <p><i class="icon-browser lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">@lang('pages.home.values.4')</h6>
-                                </a>
-                            </div>
-
-
-                            <div class="col">
-                                <a class="card card-body border hover-shadow-6 text-center py-6">
-                                    <p><i class="icon-basket lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">@lang('pages.home.values.5')</h6>
-                                </a>
-                            </div>
-
-
-                            <div class="col">
-                                <a class="card card-body border hover-shadow-6 text-center py-6">
-                                    <p><i class="icon-profile-male lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">@lang('pages.home.values.6')</h6>
-                                </a>
-                            </div>
-
-                            <div class="col">
-                                <a class="card card-body border hover-shadow-6 text-center py-6">
-                                    <p><i class="icon-pencil lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">@lang('pages.home.values.7')</h6>
-                                </a>
-                            </div>
-
-
-                            <div class="col">
-                                <a class="card card-body border hover-shadow-6 text-center py-6">
-                                    <p><i class="icon-video lead-6 text-muted"></i></p>
-                                    <h6 class="mb-0">@lang('pages.home.values.8')</h6>
-                                </a>
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                    <div class="col-lg-5 ml-lg-auto d-none d-lg-block">
-                        <img src="{{ asset('assets/img/preview/blocks-and-elements-space.png') }}" alt="Photo by Luck Galindo from Pexels - Thank you Luck Galinda :)">
+                    <div class="col-md-8 p-6 p-md-8">
+                        <h4>@lang('pages.home.What is Fornax')</h4>
+                        <p class="lead">@lang('pages.home.Fornax Description')</p>
                     </div>
 
                 </div>
             </div>
         </section>
+        <section class="section" id="section-values">
+            <div class="container">
+                <h2 class="text-center">@lang('pages.home.Our Values')</h2>
+                <div class="row gap-y">
+
+                    <div class="col-lg-3">
+                        <div class="card card-body border text-center">
+                            <p class="my-5"><i class="icon-layers lead-8 text-lighter"></i></p>
+                            <h5>@lang('pages.home.values.1')</h5>
+                            <p>@lang('pages.home.values-desc.1')</p>
+                        </div>
+                    </div>
+
+
+                    <div class="col-lg-3">
+                        <div class="card card-body border text-center">
+                            <p class="my-5"><i class="icon-puzzle lead-8 text-lighter"></i></p>
+                            <h5>@lang('pages.home.values.2')</h5>
+                            <p>@lang('pages.home.values-desc.2')</p>
+                        </div>
+                    </div>
+
+
+                    <div class="col-lg-3">
+                        <div class="card card-body border text-center">
+                            <p class="my-5"><i class="icon-mobile lead-8 text-lighter"></i></p>
+                            <h5>@lang('pages.home.values.3')</h5>
+                            <p>@lang('pages.home.values-desc.3')</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3">
+                        <div class="card card-body border text-center">
+                            <p class="my-5"><i class="icon-mobile lead-8 text-lighter"></i></p>
+                            <h5>@lang('pages.home.values.4')</h5>
+                            <p>@lang('pages.home.values-desc.4')</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3">
+                        <div class="card card-body border text-center">
+                            <p class="my-5"><i class="icon-layers lead-8 text-lighter"></i></p>
+                            <h5>@lang('pages.home.values.5')</h5>
+                            <p>@lang('pages.home.values-desc.5')</p>
+                        </div>
+                    </div>
+
+
+                    <div class="col-lg-3">
+                        <div class="card card-body border text-center">
+                            <p class="my-5"><i class="icon-puzzle lead-8 text-lighter"></i></p>
+                            <h5>@lang('pages.home.values.6')</h5>
+                            <p>@lang('pages.home.values-desc.6')</p>
+                        </div>
+                    </div>
+
+
+                    <div class="col-lg-3">
+                        <div class="card card-body border text-center">
+                            <p class="my-5"><i class="icon-mobile lead-8 text-lighter"></i></p>
+                            <h5>@lang('pages.home.values.7')</h5>
+                            <p>@lang('pages.home.values-desc.7')</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3">
+                        <div class="card card-body border text-center">
+                            <p class="my-5"><i class="icon-mobile lead-8 text-lighter"></i></p>
+                            <h5>@lang('pages.home.values.8')</h5>
+                            <p>@lang('pages.home.values-desc.8')</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
     </main>
 @endsection

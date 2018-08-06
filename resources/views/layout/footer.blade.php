@@ -37,7 +37,7 @@
 
                 <hr>
                 <p class="text-center">@lang('pages.layout.slogan')</p>
-
+                <p class="text-center"><img src="{{ asset('assets/img/favicon.png') }}" alt="Fornax Studio Icon" width="32"></p>
             </div>
         </div>
     </div>

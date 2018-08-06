@@ -52,6 +52,8 @@ return [
                                    Alpha, Beta and Nu Fornacis adlı üç yıldızdan meydana gelen 88 modern takımyıldızdan biri.
                                    Bir diğer kullanımı ise, Fornax A (NGC 1316)... Bir oldukça uzak bir galaksi.',
 
+        'Our Values'           => 'Değerlerimiz',
+
         'values'               => [
             1 => 'Şeffaflık',
             2 => 'Güven',
@@ -61,6 +63,17 @@ return [
             6 => 'Takım',
             7 => 'Sorumluluk',
             8 => 'Sürekli Değişim',
+        ],
+
+        'values-desc'           => [
+            1 => '',
+            2 => '',
+            3 => '',
+            4 => '',
+            5 => '',
+            6 => '',
+            7 => '',
+            8 => '',
         ]
     ],
 

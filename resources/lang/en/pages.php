@@ -50,6 +50,8 @@ return [
         'What is Fornax'       => 'What is Fornax?',
         'Fornax Description'   => 'Fornax has different usages but we love all of them! It\'s a Roman goddess, one of the 88 modern constellations made by three bright stars named Alpha, Beta and Nu Fornacis. One more thing, Fornax A (NGC 1316) is a galaxy, far far away.',
 
+        'Our Values'           => 'Our Values',
+
         'values'               => [
             1 => 'Transparency',
             2 => 'Trust',
@@ -59,6 +61,17 @@ return [
             6 => 'Team',
             7 => 'Responsibility',
             8 => 'Constant Change',
+        ],
+
+        'values-desc'           => [
+            1 => '',
+            2 => '',
+            3 => '',
+            4 => '',
+            5 => '',
+            6 => '',
+            7 => '',
+            8 => '',
         ]
     ],
 
