@@ -20,7 +20,7 @@
     <!--  Open Graph Tags -->
     <meta property="og:title" content="{{ config('app.name') }}">
     <meta property="og:description" content="@lang('general.website.description')">
-    <meta property="og:image" content="{{ asset('assets/img/og-img.jpg') }}">
+    <meta property="og:image" content="{{ asset('assets/img/og-fornax-studio-img.jpg') }}">
     <meta property="og:url" content="{{ config('app.url') }}">
     <meta name="twitter:card" content="summary_large_image">
 </head>
