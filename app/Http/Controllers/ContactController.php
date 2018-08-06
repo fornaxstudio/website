@@ -16,7 +16,7 @@ Class ContactController extends Controller
     public function mailToAdmin(ContactFormRequest $message, Admin $admin)
     {
         //send the admin an notification
-        //$admin->notify(new InboxMessage($message));
+        $admin->notify(new InboxMessage($message));
         // redirect the user back
         return redirect()->back()->with('message', __('pages.contact.Message sent'));
     }
