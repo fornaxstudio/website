@@ -42,16 +42,16 @@
             <hr class="my-8">
 
 
-            {{--<div class="row gap-y align-items-center">
+            <div class="row gap-y align-items-center">
                 <div class="col-md-6 ml-auto">
                     <h4>@lang('pages.projects.Project3')</h4>
                     <p>@lang('pages.projects.Project3 Text')</p>
                 </div>
 
                 <div class="col-md-5 order-md-first">
-                    <img class="rounded shadow-2" src="http://via.placeholder.com/600x400" alt="...">
+                    <img class="rounded shadow-2" src="{{ asset('assets/img/preview/kali-web.png') }}" alt="pages.projects.Project3">
                 </div>
-            </div>--}}
+            </div>
 
 
         </div>

@@ -81,8 +81,8 @@ return [
         'Project1 Text' => 'The principal aim we pursue is to build a decentralized non-governmental organization on blockchain to increase user participation in social change by incentivising contributions with cryptocurrencies. As for the first project, namely dNGO Books, it attempts to create a collectively produced, multilingual and publicly accessible audiobook archive.',
         'Project2' => 'rezervapp',
         'Project2 Text' => 'rezervapp is an intuitive and user-friendly property management software. It is created for hotels, campgrounds and lodgings to easily manage rental properties, provide guest services and automate the booking process',
-        'Project3' => 'KALI',
-        'Project3 Text' => 'blabla3',
+        'Project3' => 'kali',
+        'Project3 Text' => 'kali is an minimal & elegant tool which enables users to interact with user interface via their voices.',
 
     ],
 

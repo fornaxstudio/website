@@ -44,6 +44,14 @@
                             </div>
                         </a>
                     </div>
+                    <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="300">
+                        <a class="card shadow-1 hover-shadow-7" href="https://kali.fornaxstudio.com" target="_blank">
+                            <img class="card-img-top" src="{{ asset('assets/img/preview/kali-web.png') }}" alt="kali">
+                            <div class="card-body">
+                                <h6 class="mb-0">kali</h6>
+                            </div>
+                        </a>
+                    </div>
 
                 </div>
 
@@ -70,7 +78,7 @@
 
                     <div class="col-lg-3">
                         <div class="card card-body border text-center">
-                            <p class="my-5"><i class="icon-layers lead-8 text-lighter"></i></p>
+                            <p class="my-5"><i class="icon-search lead-8 text-lighter"></i></p>
                             <h5>@lang('pages.home.values.1')</h5>
                             <p>@lang('pages.home.values-desc.1')</p>
                         </div>
@@ -79,50 +87,23 @@
 
                     <div class="col-lg-3">
                         <div class="card card-body border text-center">
-                            <p class="my-5"><i class="icon-puzzle lead-8 text-lighter"></i></p>
+                            <p class="my-5"><i class="icon-shield lead-8 text-lighter"></i></p>
                             <h5>@lang('pages.home.values.2')</h5>
                             <p>@lang('pages.home.values-desc.2')</p>
                         </div>
                     </div>
 
-
                     <div class="col-lg-3">
                         <div class="card card-body border text-center">
-                            <p class="my-5"><i class="icon-mobile lead-8 text-lighter"></i></p>
-                            <h5>@lang('pages.home.values.3')</h5>
-                            <p>@lang('pages.home.values-desc.3')</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3">
-                        <div class="card card-body border text-center">
-                            <p class="my-5"><i class="icon-mobile lead-8 text-lighter"></i></p>
-                            <h5>@lang('pages.home.values.4')</h5>
-                            <p>@lang('pages.home.values-desc.4')</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3">
-                        <div class="card card-body border text-center">
-                            <p class="my-5"><i class="icon-layers lead-8 text-lighter"></i></p>
+                            <p class="my-5"><i class="icon-genius lead-8 text-lighter"></i></p>
                             <h5>@lang('pages.home.values.5')</h5>
                             <p>@lang('pages.home.values-desc.5')</p>
                         </div>
                     </div>
 
-
                     <div class="col-lg-3">
                         <div class="card card-body border text-center">
-                            <p class="my-5"><i class="icon-puzzle lead-8 text-lighter"></i></p>
-                            <h5>@lang('pages.home.values.6')</h5>
-                            <p>@lang('pages.home.values-desc.6')</p>
-                        </div>
-                    </div>
-
-
-                    <div class="col-lg-3">
-                        <div class="card card-body border text-center">
-                            <p class="my-5"><i class="icon-mobile lead-8 text-lighter"></i></p>
+                            <p class="my-5"><i class="icon-flag lead-8 text-lighter"></i></p>
                             <h5>@lang('pages.home.values.7')</h5>
                             <p>@lang('pages.home.values-desc.7')</p>
                         </div>
@@ -130,7 +111,31 @@
 
                     <div class="col-lg-3">
                         <div class="card card-body border text-center">
-                            <p class="my-5"><i class="icon-mobile lead-8 text-lighter"></i></p>
+                            <p class="my-5"><i class="icon-heart lead-8 text-lighter"></i></p>
+                            <h5>@lang('pages.home.values.6')</h5>
+                            <p>@lang('pages.home.values-desc.6')</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3">
+                        <div class="card card-body border text-center">
+                            <p class="my-5"><i class="icon-gears lead-8 text-lighter"></i></p>
+                            <h5>@lang('pages.home.values.3')</h5>
+                            <p>@lang('pages.home.values-desc.3')</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3">
+                        <div class="card card-body border text-center">
+                            <p class="my-5"><i class="icon-speedometer lead-8 text-lighter"></i></p>
+                            <h5>@lang('pages.home.values.4')</h5>
+                            <p>@lang('pages.home.values-desc.4')</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3">
+                        <div class="card card-body border text-center">
+                            <p class="my-5"><i class="icon-refresh lead-8 text-lighter"></i></p>
                             <h5>@lang('pages.home.values.8')</h5>
                             <p>@lang('pages.home.values-desc.8')</p>
                         </div>
