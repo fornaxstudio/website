@@ -13,7 +13,11 @@
         <div class="container">
             <div class="row gap-y align-items-center">
                 <div class="col-md-6 ml-auto">
-                    <h4>@lang('pages.projects.Project1')</h4>
+                    <h4>
+                        <a href="{{ url('https://dngo.io') }}">
+                            @lang('pages.projects.Project1')
+                        </a>
+                    </h4>
                     <p>@lang('pages.projects.Project1 Text')</p>
                 </div>
 
@@ -28,7 +32,11 @@
 
             <div class="row gap-y align-items-center">
                 <div class="col-md-6 mr-auto">
-                    <h4>@lang('pages.projects.Project2')</h4>
+                    <h4>
+                        <a href="{{ url('https://rezervapp.com') }}">
+                            @lang('pages.projects.Project2')
+                        </a>
+                    </h4>
                     <p>@lang('pages.projects.Project2 Text')</p>
                 </div>
 
@@ -44,12 +52,18 @@
 
             <div class="row gap-y align-items-center">
                 <div class="col-md-6 ml-auto">
-                    <h4>@lang('pages.projects.Project3')</h4>
+                    <h4>
+                        <a href="{{ url('https://kali.fornaxstudio.com') }}">
+                            @lang('pages.projects.Project3')
+                        </a>
+                    </h4>
                     <p>@lang('pages.projects.Project3 Text')</p>
                 </div>
 
                 <div class="col-md-5 order-md-first">
-                    <img class="rounded shadow-2" src="{{ asset('assets/img/preview/kali-web.png') }}" alt="pages.projects.Project3">
+                    <a href="{{ url('https://kali.fornaxstudio.com') }}">
+                        <img class="rounded shadow-2" src="{{ asset('assets/img/preview/kali-web.png') }}" alt="@lang('pages.projects.Project3')">
+                    </a>
                 </div>
             </div>
 
