@@ -24,7 +24,7 @@ return [
             'button' => 'Takip Et',
         ],
         'slogan'           => 'Kod ve iş geliştiren bir ekibiz. Güzel ve modern tasarımları, temiz, fonksiyonel ve yüksek
-                               permormanslı şekilde kodlayarak işlevsel projeler üretiyoruz.',
+                               performanslı şekilde kodlayarak işlevsel projeler üretiyoruz.',
     ],
 
     'title' => [
