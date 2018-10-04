@@ -29,7 +29,7 @@
 @yield('page')
 <script src="{{ asset('assets/js/compiled.js') }}"></script>
 {!! NoCaptcha::renderJs() !!}
-<!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/4753846.js"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123394344-1"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
