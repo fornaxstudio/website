@@ -74,76 +74,108 @@
         <section class="section" id="section-values">
             <div class="container">
                 <h2 class="text-center">@lang('pages.home.Our Values')</h2>
-                <div class="row gap-y">
-
-                    <div class="col-lg-3">
-                        <div class="card card-body border text-center">
-                            <p class="my-5"><i class="icon-search lead-8 text-lighter"></i></p>
-                            <h5>@lang('pages.home.values.1')</h5>
-                            <p>@lang('pages.home.values-desc.1')</p>
-                        </div>
+                <div class="row gap-y align-items-center py-7">
+                    <div class="col-md-6 text-center">
+                        <img src="{{ asset('assets/img/vector/feather-alt-solid.svg') }}" width="200" alt="@lang('pages.home.values.1')">
                     </div>
-
-
-                    <div class="col-lg-3">
-                        <div class="card card-body border text-center">
-                            <p class="my-5"><i class="icon-shield lead-8 text-lighter"></i></p>
-                            <h5>@lang('pages.home.values.2')</h5>
-                            <p>@lang('pages.home.values-desc.2')</p>
-                        </div>
+                    <div class="col-md-5 ml-auto text-center text-md-left">
+                        <p class="lead-9 fw-900 lh-1 opacity-10">01</p>
+                        <h3>@lang('pages.home.values.1')</h3>
+                        <p>@lang('pages.home.values-desc.1')</p>
                     </div>
-
-                    <div class="col-lg-3">
-                        <div class="card card-body border text-center">
-                            <p class="my-5"><i class="icon-genius lead-8 text-lighter"></i></p>
-                            <h5>@lang('pages.home.values.5')</h5>
-                            <p>@lang('pages.home.values-desc.5')</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3">
-                        <div class="card card-body border text-center">
-                            <p class="my-5"><i class="icon-flag lead-8 text-lighter"></i></p>
-                            <h5>@lang('pages.home.values.7')</h5>
-                            <p>@lang('pages.home.values-desc.7')</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3">
-                        <div class="card card-body border text-center">
-                            <p class="my-5"><i class="icon-heart lead-8 text-lighter"></i></p>
-                            <h5>@lang('pages.home.values.6')</h5>
-                            <p>@lang('pages.home.values-desc.6')</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3">
-                        <div class="card card-body border text-center">
-                            <p class="my-5"><i class="icon-gears lead-8 text-lighter"></i></p>
-                            <h5>@lang('pages.home.values.3')</h5>
-                            <p>@lang('pages.home.values-desc.3')</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3">
-                        <div class="card card-body border text-center">
-                            <p class="my-5"><i class="icon-speedometer lead-8 text-lighter"></i></p>
-                            <h5>@lang('pages.home.values.4')</h5>
-                            <p>@lang('pages.home.values-desc.4')</p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3">
-                        <div class="card card-body border text-center">
-                            <p class="my-5"><i class="icon-refresh lead-8 text-lighter"></i></p>
-                            <h5>@lang('pages.home.values.8')</h5>
-                            <p>@lang('pages.home.values-desc.8')</p>
-                        </div>
-                    </div>
-
                 </div>
+
+
+                <div class="row gap-y align-items-center py-7">
+                    <div class="col-md-5 mr-auto text-center text-md-left">
+                        <p class="lead-9 fw-900 lh-1 opacity-10">02</p>
+                        <h3>@lang('pages.home.values.2')</h3>
+                        <p>@lang('pages.home.values-desc.2')</p>
+                    </div>
+
+                    <div class="col-md-6 text-center order-first order-md-last">
+                        <img src="{{ asset('assets/img/vector/shield-alt-solid.svg') }}" width="200" alt="@lang('pages.home.values.2')">
+                    </div>
+                </div>
+
+
+                <div class="row gap-y align-items-center py-7">
+                    <div class="col-md-6 text-center">
+                        <img src="{{ asset('assets/img/vector/user-plus-solid.svg') }}" width="200" alt="@lang('pages.home.values.3')">
+                    </div>
+
+                    <div class="col-md-5 ml-auto text-center text-md-left">
+                        <p class="lead-9 fw-900 lh-1 opacity-10">03</p>
+                        <h3>@lang('pages.home.values.3')</h3>
+                        <p>@lang('pages.home.values-desc.3')</p>
+                    </div>
+                </div>
+
+
+                <div class="row gap-y align-items-center py-7">
+                    <div class="col-md-5 text-center text-md-left">
+                        <p class="lead-9 fw-900 lh-1 opacity-10">04</p>
+                        <h3>@lang('pages.home.values.4')</h3>
+                        <p>@lang('pages.home.values-desc.4')</p>
+                    </div>
+
+                    <div class="col-md-6 ml-auto text-center order-first order-md-last">
+                        <img src="{{ asset('assets/img/vector/superscript-solid.svg') }}" width="200" alt="@lang('pages.home.values.4')">
+                    </div>
+                </div>
+
+                <div class="row gap-y align-items-center py-7">
+                    <div class="col-md-6 text-center">
+                        <img src="{{ asset('assets/img/vector/sync-alt-solid.svg') }}" width="200" alt="@lang('pages.home.values.5')">
+                    </div>
+                    <div class="col-md-5 ml-auto text-center text-md-left">
+                        <p class="lead-9 fw-900 lh-1 opacity-10">05</p>
+                        <h3>@lang('pages.home.values.5')</h3>
+                        <p>@lang('pages.home.values-desc.5')</p>
+                    </div>
+                </div>
+
+
+                <div class="row gap-y align-items-center py-7">
+                    <div class="col-md-5 mr-auto text-center text-md-left">
+                        <p class="lead-9 fw-900 lh-1 opacity-10">06</p>
+                        <h3>@lang('pages.home.values.6')</h3>
+                        <p>@lang('pages.home.values-desc.6')</p>
+                    </div>
+
+                    <div class="col-md-6 text-center order-first order-md-last">
+                        <img src="{{ asset('assets/img/vector/users-solid.svg') }}" width="200" alt="@lang('pages.home.values.6')">
+                    </div>
+                </div>
+
+
+                <div class="row gap-y align-items-center py-7">
+                    <div class="col-md-6 text-center">
+                        <img src="{{ asset('assets/img/vector/calendar-check-regular.svg') }}" width="200" alt="@lang('pages.home.values.7')">
+                    </div>
+
+                    <div class="col-md-5 ml-auto text-center text-md-left">
+                        <p class="lead-9 fw-900 lh-1 opacity-10">07</p>
+                        <h3>@lang('pages.home.values.7')</h3>
+                        <p>@lang('pages.home.values-desc.7')</p>
+                    </div>
+                </div>
+
+
+                <div class="row gap-y align-items-center py-7">
+                    <div class="col-md-5 text-center text-md-left">
+                        <p class="lead-9 fw-900 lh-1 opacity-10">08</p>
+                        <h3>@lang('pages.home.values.8')</h3>
+                        <p>@lang('pages.home.values-desc.8')</p>
+                    </div>
+
+                    <div class="col-md-6 ml-auto text-center order-first order-md-last">
+                        <img src="{{ asset('assets/img/vector/crosshairs-solid.svg') }}" width="200" alt="@lang('pages.home.values.8')">
+                    </div>
+                </div>
+
+
             </div>
         </section>
-
     </main>
 @endsection
