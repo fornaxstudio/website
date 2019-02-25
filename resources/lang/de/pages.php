@@ -11,7 +11,7 @@ return [
     'menu' => [
         'Home'     => 'HOME',
         'Projects' => 'PROJECTS',
-        'Contact'  => 'CONTACT',
+        'Contact'  => 'KONTAKT',
     ],
 
     'layout' => [
