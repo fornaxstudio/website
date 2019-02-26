@@ -36,6 +36,14 @@
                             </div>
                         </a>
                     </div>
+                    <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="0">
+                        <a class="card shadow-1 hover-shadow-7" href="https://vision.fornaxstudio.com" target="_blank">
+                            <img class="card-img-top" src="{{ asset('assets/img/preview/vision.png') }}" alt="Vision">
+                            <div class="card-body">
+                                <h6 class="mb-0">Vision</h6>
+                            </div>
+                        </a>
+                    </div>
                     <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="150">
                         <a class="card shadow-1 hover-shadow-7" href="https://rezervapp.com" target="_blank">
                             <img class="card-img-top" src="{{ asset('assets/img/preview/rezervapp.png') }}" alt="rezervapp">
