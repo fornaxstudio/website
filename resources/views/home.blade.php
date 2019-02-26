@@ -29,7 +29,7 @@
                 <div class="row gap-y">
 
                     <div class="col-6 col-lg-4" data-aos="fade-up" data-aos-delay="0">
-                        <a class="card shadow-1 hover-shadow-7" href="https://dngo.io" target="_blank">
+                        <a class="card shadow-1 hover-shadow-7" href="https://dngo.fornaxstudio.com" target="_blank">
                             <img class="card-img-top" src="{{ asset('assets/img/preview/dngo.png') }}" alt="dNGO">
                             <div class="card-body">
                                 <h6 class="mb-0">dNGO</h6>
