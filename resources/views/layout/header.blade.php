@@ -29,7 +29,7 @@
                     <nav class="nav">
                         <a class="nav-link" href="{{ url('language/en') }}">English</a>
                         <a class="nav-link" href="{{ url('language/tr') }}">Türkçe</a>
-                        <a class="nav-link" href="{{ url('language/de') }}">Deutsch</a>
+                        <!--<a class="nav-link" href="{{ url('language/de') }}">Deutsch</a>//-->
                     </nav>
                 </li>
             </ul>
