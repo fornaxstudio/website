@@ -29,8 +29,8 @@ return [
 
     'title' => [
         'Home'     => 'Home',
-        'Projects' => 'Projects',
-        'Contact'  => 'Contact',
+        'Projects' => 'Projekte',
+        'Contact'  => 'Kontakt',
     ],
 
     'home'     => [
