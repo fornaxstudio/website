@@ -10,21 +10,21 @@ return [
 
     'menu' => [
         'Home'     => 'HOME',
-        'Projects' => 'PROJECTS',
+        'Projects' => 'PROJEKTE',
         'Contact'  => 'KONTAKT',
     ],
 
     'layout' => [
-        'cookie-message'   => 'This website uses cookies to ensure you get the best experience on our website.',
-        'cookie-button'    => 'GOT IT!',
+        'cookie-message'   => 'Diese Website verwendet Cookies, um sicherzustellen, dass Sie das beste Ergebnis auf unserer Website erzielen.',
+        'cookie-button'    => 'Verstanden!',
         'subscribe'        => [
-            'mini'   => 'Stay up-to-date',
-            'main'   => 'Subscribe to our newsletter',
+            'mini'   => 'Bleiben Sie aktuell informiert',
+            'main'   => 'Abonnieren Sie unseren Newsletter',
             'email'  => 'Enter Your Email',
-            'button' => 'Subscribe',
+            'button' => 'Geben Sie Ihre E-Mail-Adresse ein',
         ],
-        'slogan'           => 'We’re a team of code and business developers. We can combine beautiful, modern designs 
-                               with clean, functional and high-performance code to produce stunning projects.',
+        'slogan'           => 'Unser Team besteht aus Entwicklern und Business Developern, die mit modernem Design und funktionellem, leistungsstarkem Code beeindruckende Projekte
+                                realisieren.',
     ],
 
     'title' => [
