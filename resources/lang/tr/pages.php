@@ -78,7 +78,7 @@ return [
     ],
 
     'projects' => [
-        'There is always something more to learn' => 'Her zaman yeni öğrenecek bir şey var',
+        'There is always something more to learn' => 'Her zaman yeni öğrenecek bir şeyler var',
         'Project1'      => 'dNGO',
         'Project1 Text' => 'Temel amacı, sosyal projelerde kullanıcı katılımını artırmak ve özendirmek için blockchain 
                             üzerinde kripto paraları kullanan merkeziyetsiz sivil toplum kuruluşu oluşturmaktır. İlk proje 
