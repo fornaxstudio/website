@@ -34,8 +34,8 @@ return [
     ],
 
     'home'     => [
-        'type-intro' => 'We are',
-        'type'       => 'forward-thinking., fully-remote., an open company.,',
+        'type-intro' => 'Wir sind',
+        'type'       => 'zukunftsorientiert., vollständig ferngesteuert., ein aufgeschlossenes Unternehmen.,',
         'home-intro' => '<strong>'.config('app.name').'</strong> is an employee-owned and fully-remote company dedicated to awesome software and enthusiastic 
                             customer support. We treat each other with respect. We value transparency and our people are independent, 
                             skilled and highly motivated. We’re privileged to be able to work each day with smart and talented people who
