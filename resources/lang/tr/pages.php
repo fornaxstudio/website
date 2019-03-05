@@ -48,7 +48,7 @@ return [
         'lead'                 => 'İnsanlar doğru araçlara sahip olurlarsa, hayallerini gerçeğe dönüştürebilirler.',
 
         'What is Fornax'       => 'Fornax Nedir?',
-        'Fornax Description'   => 'Fornax bir den fazla kullanıma sahip ama biz hepsini seviyoruz! Bir Roma tanrıçası, 
+        'Fornax Description'   => 'Fornax birden fazla kullanıma sahip ama biz hepsini seviyoruz! Bir Roma tanrıçası, 
                                    Alpha, Beta and Nu Fornacis adlı üç yıldızdan meydana gelen 88 modern takımyıldızdan biri.
                                    Bir diğer kullanımı ise, Fornax A (NGC 1316)... Oldukça uzak bir galaksi.',
 
