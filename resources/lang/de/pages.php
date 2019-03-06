@@ -36,69 +36,68 @@ return [
     'home'     => [
         'type-intro' => 'Wir sind',
         'type'       => 'zukunftsorientiert., vollständig ferngesteuert., ein aufgeschlossenes Unternehmen.,',
-        'home-intro' => '<strong>'.config('app.name').'</strong> is an employee-owned and fully-remote company dedicated to awesome software and enthusiastic 
-                            customer support. We treat each other with respect. We value transparency and our people are independent, 
-                            skilled and highly motivated. We’re privileged to be able to work each day with smart and talented people who
-                            are passionate about creating great software. All while treating customers with respect, making a living, 
-                            and having fun.',
-        'Explore Our Values'   => 'Explore Our Values',
-        'Explore Our Products' => 'Explore Our Projects',
+        'home-intro' => '<strong>'.config('app.name').'</strong> ist ein mitarbeitergeführtes und vollständig ferngesteuertes Unternehmen, das sich der großartigen Software und dem begeisterten Kundensupport verschrieben hat. Wir behandeln uns gegenseitig mit Respekt. 
+                Wir legen Wert auf Transparenz und unsere Mitarbeiter sind unabhängig, kompetent und hoch motiviert. 
+            Wir haben das Privileg, jeden Tag mit intelligenten und talentierten Menschen zusammenarbeiten zu können, die sich leidenschaftlich für die Entwicklung großartiger Software einsetzen. Das alles bei respektvollem Umgang mit Kunden, Lebensunterhalt und Spaß.',
+        'Explore Our Values'   => 'Unsere Werte',
+        'Explore Our Products' => 'Unsere Projekte',
 
-        'Fornax Constellation' => 'FORNAX CONSTELLATION',
-        'lead'                 => 'Companies are made up of people.<br>And when those people have the right tools, they can turn their dreams into reality.',
+        'Fornax Constellation' => 'FORNAX AUFSTELLUNG',
+        'lead'                 => 'Unternehmen setzen sich aus Menschen zusammen.<br>Und wenn diese Menschen die richtigen Werkzeuge haben, können sie ihre Träume in Taten umsetzen.',
 
-        'What is Fornax'       => 'What is Fornax?',
-        'Fornax Description'   => 'Fornax has different usages but we love all of them! It\'s a Roman goddess, one of the 88 modern constellations made by three bright stars named Alpha, Beta and Nu Fornacis. One more thing, Fornax A (NGC 1316) is a galaxy, far far away.',
+        'What is Fornax'       => 'Was ist Fornax?',
+        'Fornax Description'   => 'Fornax hat verschiedene Bedeutungen, aber wir lieben sie alle! Es ist eine römische Göttin, eines der 88 modernen Sternbilder, die von drei hellen Sternen namens Alpha, Beta und Nu Fornacis geschaffen wurden. Außerdem ist Fornax A (NGC 1316) eine Galaxie, weit weit von uns entfernt.',
 
-        'Our Values'           => 'Our Values',
+        'Our Values'           => 'Unsere Werte',
 
         'values'               => [
-            1 => 'Transparency',
-            2 => 'Trust',
-            3 => 'Collaboration',
-            4 => 'Efficiency',
-            5 => 'Autonomy',
+            1 => 'Transparenz',
+            2 => 'Vertrauen',
+            3 => 'Mitarbeit',
+            4 => 'Effizienz',
+            5 => 'Autonomie',
             6 => 'Team',
-            7 => 'Responsibility',
-            8 => 'Constant Change',
+            7 => 'Verantwortung',
+            8 => 'Konstante Änderung',
         ],
 
         'values-desc'           => [
-            1 => 'Transparency is the most important topic in the company. How we do it? Communication is key! We tell each other everything. Every idea, every step; we like to communicate about it. Since we share everything, we always have each other’s back.',
-            2 => 'Transparency increases Trust. We trust each other on our work and skills. Just as Simon Sinek says “A team is not a group of people that work together. A team is a group of people that trust each other.” The trust we have for each other does not only make us a company but also a family.',
-            3 => 'According to Philosopher Immanuel Kant autonomy is „the right for one to make their own decisions excluding any interference from others and as the capacity to make such decisions through one’s own independence of mind […].“ We don’t have hierarchical levels where one is told what to do. Everybody has their own mind and can speak of it. We show respect to every idea and discuss every topic very detailed before we come to any conclusions about our work. We appreciate every effort that will benefit our company.',
-            4 => 'With transparency and trust comes responsibility. We are a non-hierarchic company that trusts in their workers. Everybody in our team is free and responsible for themselves and their work. But of course in times of crisis we stick to each other to help out with each other’s responsibilities.',
-            5 => 'Teamwork is as important as transparency. Our team is not only work buddies but we tend to call our team a family. We trust each other, help each other and have fun together.',
-            6 => 'Collaboration or in other words Team Play. We believe that in combining individuals with different mindsets will improve our work for the better. The reason why collaboration skills are so important because no matter how well-educated you are, if you are not able to articulate your ideas well you won’t be able to make significant progress in your work.',
-            7 => 'Efficiency is important to keep deadlines and deliver tasks on time. We try to work in an environment that guarantees us the efficiency we need on our daily work routine. Everybody therefore has their own methods and and routines to raise their efficiency.',
-            8 => 'Technology is changing, so are we. We love new ideas. The idea of our company is not just to keep up with the changing world but also contribute to it, even lead it. Therefore research, interest and motivation for new ideas are the key interests we look in our team.',
+            1 => 'Transparenz ist das wichtigste Thema im Unternehmen. Wie machen wir das? Kommunikation ist der Schlüssel! Wir erzählen uns gegenseitig alles. Jede Idee, jeder Schritt; wir kommunizieren gerne darüber. Da wir alles teilen, haben wir immer den Rücken zueinander.',
+            2 => 'Transparenz erhöht das Vertrauen. Wir vertrauen uns bei unserer Arbeit und unseren Fähigkeiten. So wie Simon Sinek sagt: "Ein Team ist keine Gruppe von Menschen, die zusammen arbeiten. Ein Team ist eine Gruppe von Menschen, die sich gegenseitig vertrauen." Das Vertrauen, das wir füreinander haben, macht uns nicht nur zu einem Unternehmen, sondern auch zu einer Familie.',
+            3 => 'Nach Ansicht des Philosophen Immanuel Kant ist Autonomie "das Recht, dass man seine eigenen Entscheidungen trifft, ohne sich von anderen einzumischen, und die Fähigkeit, solche Entscheidungen durch die eigene Unabhängigkeit des Geistes zu treffen". Wir haben keine Hierarchieebenen, in denen einem gesagt wird, was er tun soll. Jeder hat seinen eigenen Verstand und kann davon sprechen. 
+                  Wir respektieren jede Idee und diskutieren jedes Thema sehr ausführlich, bevor wir zu Schlussfolgerungen über unsere Arbeit kommen. Wir schätzen jede Anstrengung, die unserem Unternehmen zugute kommt.',
+            4 => 'Mit Transparenz und Vertrauen kommt Verantwortung. Wir sind ein nicht-hierarchisches Unternehmen, das auf seine Mitarbeiter vertraut. Jeder in unserem Team ist frei und verantwortlich für sich und seine Arbeit. Aber natürlich bleiben wir in Krisenzeiten zusammen, um bei der gegenseitigen Verantwortung zu helfen.',
+            5 => 'Teamarbeit ist ebenso wichtig wie Transparenz. Wir nennen unser Team nicht nur Arbeitskollegen, sondern auch unsere Familie. Wir vertrauen uns gegenseitig, helfen uns gegenseitig und haben Spaß zusammen.',
+            6 => 'Zusammenarbeit oder mit anderen Worten Teamplay. Wir glauben, dass die Kombination von Individuen mit unterschiedlichen Denkweisen unsere Arbeit zum Besseren wenden wird. Der Grund, warum Kooperationsfähigkeiten so wichtig sind, ist, egal wie gut ausgebildet Sie sind, wenn Sie Ihre Ideen nicht gut artikulieren können, werden Sie keine wesentlichen Fortschritte in Ihrer Arbeit erzielen können.',
+            7 => 'Effizienz ist wichtig, um Termine einzuhalten und Aufgaben termingerecht zu erledigen. Wir versuchen, in einem Umfeld zu arbeiten, das uns die Effizienz garantiert, die wir für unseren Arbeitsalltag benötigen. Jeder hat daher seine eigenen Methoden und Routinen, um seine Effizienz zu steigern.',
+            8 => 'Die Technologie verändert sich, genau wie wir. Wir lieben neue Ideen. Die Idee unseres Unternehmens ist es, nicht nur mit der sich wandelnden Welt Schritt zu halten, sondern auch dazu beizutragen, sie zu führen. Deshalb sind Forschung, Interesse und Motivation für neue Ideen die Schlüsselinteressen, die wir in unserem Team suchen.',
         ]
     ],
 
     'projects' => [
-        'There is always something more to learn' => 'There is always something more to learn',
+        'There is always something more to learn' => 'Es gibt immer etwas mehr zu lernen.',
         'Project1' => 'dNGO',
-        'Project1 Text' => 'The principal aim we pursue is to build a decentralized non-governmental organization on blockchain to increase user participation in social change by incentivising contributions with cryptocurrencies. As for the first project, namely dNGO Books, it attempts to create a collectively produced, multilingual and publicly accessible audiobook archive.',
+        'Project1 Text' => 'Das Hauptziel, das wir verfolgen, ist der Aufbau einer dezentralen Nichtregierungsorganisation auf Blockchain, um die Beteiligung der Nutzer am sozialen Wandel zu erhöhen, indem wir Beiträge mit Kryptowährungen fördern. Was das erste Projekt, dNGO Books, betrifft, so wird versucht, ein gemeinsam produziertes, mehrsprachiges und öffentlich zugängliches Hörbucharchiv zu schaffen.',
         'Project2' => 'rezervapp',
-        'Project2 Text' => 'rezervapp is an intuitive and user-friendly property management software. It is created for hotels, campgrounds and lodgings to easily manage rental properties, provide guest services and automate the booking process',
+        'Project2 Text' => 'rezervapp ist eine intuitive und benutzerfreundliche Immobilienverwaltungssoftware. Es wurde für Hotels, Campingplätze und Unterkünfte entwickelt, um Mietobjekte einfach zu verwalten, Gästeservices anzubieten und den Buchungsprozess zu automatisieren.',
         'Project3' => 'kali',
-        'Project3 Text' => 'kali is an minimal & elegant tool which enables users to interact with user interface via their voices.',
+        'Project3 Text' => 'kali ist ein minimales und elegantes Werkzeug, das es den Benutzern ermöglicht, über ihre Stimme mit der Benutzeroberfläche zu interagieren.',
 
     ],
 
     'contact' => [
-        'Lets Talk'     => 'Let\'s Talk',
-        'Drop us a line'=> 'Drop us a line to contact us',
+        'Lets Talk'     => 'Unterhalten wir uns.',
+        'Drop us a line'=> 'Schicken Sie uns eine Nachricht, um uns zu kontaktieren.',
         'Name'          => 'Name',
         'Email'         => 'Email',
-        'Subject'       => 'Subject',
-        'Company'       => 'Company',
-        'Message'       => 'Message',
-        'Submit Inquiry'=> 'Submit Inquiry',
-        'Message sent'  => 'We received your message and will contact you back soon.',
+        'Subject'       => 'Betreff',
+        'Company'       => 'Unternehmen',
+        'Message'       => 'Nachricht',
+        'Submit Inquiry'=> 'Anfrage einreichen',
+        'Message sent'  => 'Vielen Dank! Wir haben Ihre Nachricht erhalten und werden Sie bald kontaktieren.',
     ],
 
     'footer' => [
-        'Footer Slogan'     => 'We’re a team of experienced designers and developers. We can combine beautiful, modern designs with clean, functional and high-performance code to produce stunning software.',
+        'Footer Slogan'     => 'Wir sind ein Team von erfahrenen Designern und Entwicklern. Wir können schöne, moderne Designs mit sauberem, funktionalem und leistungsstarkem Code kombinieren, um atemberaubende Software zu erstellen.',
     ],
 ];

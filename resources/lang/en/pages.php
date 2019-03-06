@@ -82,7 +82,7 @@ return [
         'Project2' => 'rezervapp',
         'Project2 Text' => 'rezervapp is an intuitive and user-friendly property management software. It is created for hotels, campgrounds and lodgings to easily manage rental properties, provide guest services and automate the booking process',
         'Project3' => 'kali',
-        'Project3 Text' => 'kali is an minimal & elegant tool which enables users to interact with user interface via their voices.',
+        'Project3 Text' => 'kali is a minimal & elegant tool which enables users to interact with user interface via their voices.',
 
     ],
 
@@ -95,7 +95,7 @@ return [
         'Company'       => 'Company',
         'Message'       => 'Message',
         'Submit Inquiry'=> 'Submit Inquiry',
-        'Message sent'  => 'We received your message and will contact you back soon.',
+        'Message sent'  => 'Thank you! We received your message and will contact you back soon.',
     ],
 
     'footer' => [
