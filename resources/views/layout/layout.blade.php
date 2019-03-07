@@ -38,6 +38,16 @@
 
     gtag('config', 'UA-123394344-1');
 </script>
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hjfunction(){(h.hj.q=h.hj.q[]).push(arguments)};
+        h._hjSettings={hjid:1227186,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-%27,%27.js?sv=%27);
+</script>
 @stack('scripts')
 <script>@stack('code')</script>
 </body>
