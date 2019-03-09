@@ -83,6 +83,9 @@ return [
         'Project3' => 'kali',
         'Project3 Text' => 'kali ist ein minimales und elegantes Werkzeug, das es den Benutzern ermöglicht, über ihre Stimme mit der Benutzeroberfläche zu interagieren.',
 
+        'Project4' => 'Vision',
+        'Project4 Text' => 'FV is a Data Management Platfom works as an API and also has a Project Management Tool serves as Web App. All Blockchain and AI enhanceable. Makes much easier to process organisational data.',
+
     ],
 
     'contact' => [

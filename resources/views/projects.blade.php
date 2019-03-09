@@ -1,4 +1,4 @@
-@extends('layout.page')
+    @extends('layout.page')
 @section('title', __('pages.title.Projects'))
 @section('content')
     <!-- Header -->
@@ -33,6 +33,25 @@
             <div class="row gap-y align-items-center">
                 <div class="col-md-6 mr-auto">
                     <h4>
+                        <a href="{{ url('https://vision.fornaxstudio.com') }}">
+                            @lang('pages.projects.Project4')
+                        </a>
+                    </h4>
+                    <p>@lang('pages.projects.Project4 Text')</p>
+                </div>
+
+                <div class="col-md-5">
+                    <a href="{{ url('https://vision.fornaxstudio.com') }}">
+                        <img class="rounded shadow-2" src="{{ asset('assets/img/preview/vision.png')}}" alt="@lang('pages.projects.Project4')">
+                    </a>
+                </div>
+            </div>
+
+            <hr class="my-8">
+
+            <div class="row gap-y align-items-center">
+                <div class="col-md-6 ml-auto">
+                    <h4>
                         <a href="{{ url('https://rezervapp.com') }}">
                             @lang('pages.projects.Project2')
                         </a>
@@ -40,7 +59,7 @@
                     <p>@lang('pages.projects.Project2 Text')</p>
                 </div>
 
-                <div class="col-md-5">
+                <div class="col-md-5 order-md-first">
                     <a href="{{ url('https://rezervapp.com') }}">
                         <img class="rounded shadow-2" src="{{ asset('assets/img/preview/rezervapp.png')}}" alt="@lang('pages.projects.Project2')">
                     </a>
@@ -51,7 +70,7 @@
 
 
             <div class="row gap-y align-items-center">
-                <div class="col-md-6 ml-auto">
+                <div class="col-md-6 mr-auto">
                     <h4>
                         <a href="{{ url('https://kali.fornaxstudio.com') }}">
                             @lang('pages.projects.Project3')
@@ -60,7 +79,7 @@
                     <p>@lang('pages.projects.Project3 Text')</p>
                 </div>
 
-                <div class="col-md-5 order-md-first">
+                <div class="col-md-5">
                     <a href="{{ url('https://kali.fornaxstudio.com') }}">
                         <img class="rounded shadow-2" src="{{ asset('assets/img/preview/kali-web.png') }}" alt="@lang('pages.projects.Project3')">
                     </a>

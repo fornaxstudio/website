@@ -90,6 +90,9 @@ return [
         'Project3'      => 'KALI',
         'Project3 Text' => 'blabla3',
 
+        'Project4' => 'Vision',
+        'Project4 Text' => 'Vison FV is a Data Management Platfom works as an API and also has a Project Management Tool serves as Web App. All Blockchain and AI enhanceable. Makes much easier to process organisational data.',
+
     ],
 
     'contact' => [

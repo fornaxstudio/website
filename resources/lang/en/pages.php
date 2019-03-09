@@ -83,6 +83,8 @@ return [
         'Project2 Text' => 'rezervapp is an intuitive and user-friendly property management software. It is created for hotels, campgrounds and lodgings to easily manage rental properties, provide guest services and automate the booking process',
         'Project3' => 'kali',
         'Project3 Text' => 'kali is a minimal & elegant tool which enables users to interact with user interface via their voices.',
+        'Project4' => 'Vision',
+        'Project4 Text' => 'FV is a Data Management Platfom works as an API and also has a Project Management Tool serves as Web App. All Blockchain and AI enhanceable. Makes much easier to process organisational data.',
 
     ],
 
