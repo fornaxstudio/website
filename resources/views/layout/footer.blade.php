@@ -31,6 +31,7 @@
             <div class="col-md-8 col-lg-6 mx-auto">
                 <div class="nav nav-bold nav-uppercase nav-center">
                     <a class="nav-link" href="{{ url('/') }}">@lang('pages.menu.Home')</a>
+                    <a class="nav-link" href="{{ url('/about') }}">@lang('pages.menu.About')</a>
                     <a class="nav-link" href="{{ url('/projects') }}">@lang('pages.menu.Projects')</a>
                     <a class="nav-link" href="{{ url('/contact') }}">@lang('pages.menu.Contact')</a>
                 </div>

@@ -10,6 +10,7 @@ return [
 
     'menu' => [
         'Home'     => 'HOME',
+        'About'    => 'ABOUT',
         'Projects' => 'PROJECTS',
         'Contact'  => 'CONTACT',
     ],
@@ -29,6 +30,7 @@ return [
 
     'title' => [
         'Home'     => 'Home',
+        'About'    => 'About',
         'Projects' => 'Projects',
         'Contact'  => 'Contact',
     ],
@@ -49,7 +51,9 @@ return [
 
         'What is Fornax'       => 'What is Fornax?',
         'Fornax Description'   => 'Fornax has different usages but we love all of them! It\'s a Roman goddess, one of the 88 modern constellations made by three bright stars named Alpha, Beta and Nu Fornacis. One more thing, Fornax A (NGC 1316) is a galaxy, far far away.',
+    ],
 
+    'about'    => [
         'Our Values'           => 'Our Values',
 
         'values'               => [

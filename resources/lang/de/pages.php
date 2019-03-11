@@ -10,6 +10,7 @@ return [
 
     'menu' => [
         'Home'     => 'HOME',
+        'About'    => 'ÜBER UNS',
         'Projects' => 'PROJEKTE',
         'Contact'  => 'KONTAKT',
     ],
@@ -29,6 +30,7 @@ return [
 
     'title' => [
         'Home'     => 'Home',
+        'About'    => 'Über Uns',
         'Projects' => 'Projekte',
         'Contact'  => 'Kontakt',
     ],
@@ -47,7 +49,9 @@ return [
 
         'What is Fornax'       => 'Was ist Fornax?',
         'Fornax Description'   => 'Fornax hat verschiedene Bedeutungen, aber wir lieben sie alle! Es ist eine römische Göttin, eines der 88 modernen Sternbilder, die von drei hellen Sternen namens Alpha, Beta und Nu Fornacis geschaffen wurden. Außerdem ist Fornax A (NGC 1316) eine Galaxie, weit weit von uns entfernt.',
+    ],
 
+    'about'    => [
         'Our Values'           => 'Unsere Werte',
 
         'values'               => [

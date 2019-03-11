@@ -10,6 +10,7 @@ return [
 
     'menu' => [
         'Home'    => 'ANASAYFA',
+        'About'   => 'HAKKIMIZDA',
         'Projects'=> 'PROJELER',
         'Contact' => 'İLETİŞİM',
     ],
@@ -29,6 +30,7 @@ return [
 
     'title' => [
         'Home'    => 'Anasayfa',
+        'About'    => 'Hakkımızda',
         'Projects'=> 'Projeler',
         'Contact' => 'İletişim',
     ],
@@ -51,7 +53,9 @@ return [
         'Fornax Description'   => 'Fornax birden fazla kullanıma sahip ama biz hepsini seviyoruz! Bir Roma tanrıçası, 
                                    Alpha, Beta and Nu Fornacis adlı üç yıldızdan meydana gelen 88 modern takımyıldızdan biri.
                                    Bir diğer kullanımı ise, Fornax A (NGC 1316)... Oldukça uzak bir galaksi.',
+    ],
 
+    'about'    => [
         'Our Values'           => 'Değerlerimiz',
 
         'values'               => [
