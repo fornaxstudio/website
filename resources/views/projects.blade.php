@@ -14,7 +14,7 @@
             <div class="row gap-y align-items-center">
                 <div class="col-md-6 ml-auto">
                     <h4>
-                        <a href="{{ url('https://dngo.io') }}">
+                        <a href="{{ url('https://dngo.fornaxstudio.com') }}">
                             @lang('pages.projects.Project1')
                         </a>
                     </h4>
@@ -22,7 +22,7 @@
                 </div>
 
                 <div class="col-md-5 order-md-first">
-                    <a href="{{ url('https://dngo.io') }}">
+                    <a href="{{ url('https://dngo.fornaxstudio.com') }}">
                         <img class="rounded shadow-2" src="{{ asset('assets/img/preview/dngo.png')}}" alt="@lang('pages.projects.Project1')">
                     </a>
                 </div>
