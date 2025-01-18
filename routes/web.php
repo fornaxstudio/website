@@ -26,5 +26,3 @@ Route::get('/about', function () {
 Route::get('/projects', function () {
     return view('projects');
 });
-
-Route::get('/gallery', 'GalleryController@index');
