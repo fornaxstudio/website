@@ -52,17 +52,17 @@
             <div class="row gap-y align-items-center">
                 <div class="col-md-6 ml-auto">
                     <h4>
-                        <a href="{{ url('https://rezervapp.com') }}">
+                        <span>
                             @lang('pages.projects.Project2')
-                        </a>
+                        </span>
                     </h4>
                     <p>@lang('pages.projects.Project2 Text')</p>
                 </div>
 
                 <div class="col-md-5 order-md-first">
-                    <a href="{{ url('https://rezervapp.com') }}">
+                    <spab>
                         <img class="rounded shadow-2" src="{{ asset('assets/img/preview/rezervapp.png')}}" alt="@lang('pages.projects.Project2')">
-                    </a>
+                    </span>
                 </div>
             </div>
 
