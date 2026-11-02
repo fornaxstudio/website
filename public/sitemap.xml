@@ -1,24 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-  <loc>https://fornaxstudio.com/</loc>
-  <lastmod>2018-08-05T12:42:51+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://fornaxstudio.com/projects</loc>
-  <lastmod>2018-08-05T12:42:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://fornaxstudio.com/contact</loc>
-  <lastmod>2018-08-05T12:42:51+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://fornaxstudio.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fornaxstudio.com/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://fornaxstudio.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fornaxstudio.com/de/"/>
+  </url>
+  <url>
+    <loc>https://fornaxstudio.com/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fornaxstudio.com/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://fornaxstudio.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fornaxstudio.com/de/"/>
+  </url>
+  <url>
+    <loc>https://fornaxstudio.com/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fornaxstudio.com/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://fornaxstudio.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fornaxstudio.com/de/"/>
+  </url>
+  <url>
+    <loc>https://fornaxstudio.com/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fornaxstudio.com/about"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://fornaxstudio.com/tr/about"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fornaxstudio.com/de/about"/>
+  </url>
+  <url>
+    <loc>https://fornaxstudio.com/tr/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fornaxstudio.com/about"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://fornaxstudio.com/tr/about"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fornaxstudio.com/de/about"/>
+  </url>
+  <url>
+    <loc>https://fornaxstudio.com/de/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fornaxstudio.com/about"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://fornaxstudio.com/tr/about"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fornaxstudio.com/de/about"/>
+  </url>
+  <url>
+    <loc>https://fornaxstudio.com/projects</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fornaxstudio.com/projects"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://fornaxstudio.com/tr/projects"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fornaxstudio.com/de/projects"/>
+  </url>
+  <url>
+    <loc>https://fornaxstudio.com/tr/projects</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fornaxstudio.com/projects"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://fornaxstudio.com/tr/projects"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fornaxstudio.com/de/projects"/>
+  </url>
+  <url>
+    <loc>https://fornaxstudio.com/de/projects</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fornaxstudio.com/projects"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://fornaxstudio.com/tr/projects"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fornaxstudio.com/de/projects"/>
+  </url>
+  <url>
+    <loc>https://fornaxstudio.com/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fornaxstudio.com/contact"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://fornaxstudio.com/tr/contact"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fornaxstudio.com/de/contact"/>
+  </url>
+  <url>
+    <loc>https://fornaxstudio.com/tr/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fornaxstudio.com/contact"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://fornaxstudio.com/tr/contact"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fornaxstudio.com/de/contact"/>
+  </url>
+  <url>
+    <loc>https://fornaxstudio.com/de/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fornaxstudio.com/contact"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://fornaxstudio.com/tr/contact"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fornaxstudio.com/de/contact"/>
+  </url>
 </urlset>
